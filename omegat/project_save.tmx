@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Frames or tables with invisible borders are often a more stable choice.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T100534Z" creationid="MarkHung" creationdate="20171223T100534Z">
+        <seg>&lt;f0&gt;使用訊框或無邊框的表格通常是更穩定的選擇。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;H&lt;/f0&gt;ere are some of the most common myths about styles that are repeated whenever the subject of manual formatting vs. styles is discussed:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T140520Z" creationid="zerng07" creationdate="20171212T140520Z">
