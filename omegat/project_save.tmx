@@ -2431,6 +2431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I was tempted to avoid talking about such features altogether, but the warnings are worth giving.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T085728Z" creationid="MarkHung" creationdate="20171223T085728Z">
+        <seg>我很想避免討論這類功能，但警告值得一提。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If designing your own templates is too large a step, start by using the wizards that LibreOffice installs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125301Z" creationid="Franklin Weng" creationdate="20171215T125301Z">
