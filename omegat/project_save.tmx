@@ -2263,6 +2263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: Liberation Serif.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T102334Z" creationid="MarkHung" creationdate="20171223T102334Z">
+        <seg>字型: Liberation Serif.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Footers and &lt;f0&gt;h&lt;/f0&gt;eaders arrange information in the intended order.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T071954Z" creationid="Jeff Huang" creationdate="20171212T035428Z">
@@ -2467,6 +2475,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193137Z" creationid="zerng07" creationdate="20170817T171437Z">
         <seg>不過，請注意有些擴充套件可能沒有持續更新，以致&lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;無法在最新版本中運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, before the topic of text styles is wrapped up, Chapter 6 discusses some advanced features – ones that are not strictly necessary to your design, but ones that can automate your design and make template design more efficient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T102600Z" creationid="MarkHung" creationdate="20171223T102600Z">
+        <seg>在結束文字樣式的主題之前，第6章討論一些進階的功能，這些功能在設計中並非絕對必要，但可以自動化你的設計並讓模板的設計更有效率。</seg>
       </tuv>
     </tu>
     <tu>
