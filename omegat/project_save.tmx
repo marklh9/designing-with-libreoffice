@@ -3679,6 +3679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, consider whether you need tabs or can substitute another solution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T100215Z" creationid="MarkHung" creationdate="20171223T100215Z">
+        <seg>否則，請考慮使用定位點的需求，或以其他方案取代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Over the years, I have heard users claim that templates are impractical because every document they do is different.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100821Z" creationid="Franklin Weng" creationdate="20171212T100821Z">
