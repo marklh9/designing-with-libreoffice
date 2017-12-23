@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If these instructions seem too complicated, avoid using Writer to generate &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; output.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T092105Z" creationid="MarkHung" creationdate="20171223T092105Z">
+        <seg>&lt;f0&gt;如果這些指令過於複雜，避免使用Writer產生&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you do see problems, consider repeating the final editing process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091642Z" creationid="Jeff Huang" creationdate="20171214T064507Z">
@@ -3395,6 +3403,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T150408Z" creationid="zerng07" creationdate="20170817T150351Z">
         <seg>噢，我們大概是有學過要怎麼用辦公軟體做事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On all operating platforms, there are many tools for writing web pages that are easier to use than Writer.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T092340Z" creationid="MarkHung" creationdate="20171223T092340Z">
+        <seg>所有平台都有許多比Writer更容易使用的網頁工具。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
