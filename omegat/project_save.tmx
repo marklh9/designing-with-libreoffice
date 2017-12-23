@@ -1727,6 +1727,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Borders in paragraph styles can be use&lt;f0&gt;d to create side-bars.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T102231Z" creationid="MarkHung" creationdate="20171223T102231Z">
+        <seg>段落樣式中的邊框可以用於&lt;f0&gt;建立側邊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both LibreOffice and Apache OpenOffice are widely available &lt;f0&gt;at no cost to anyone with an Internet connection.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T182000Z" creationid="zerng07" creationdate="20170817T182000Z">
