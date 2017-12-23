@@ -1639,6 +1639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below: Set to 5 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094219Z" creationid="MarkHung" creationdate="20171223T094219Z">
+        <seg>下: 設定為5點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Besides copying, the &lt;f0&gt;Duplicate&lt;/f0&gt; window can enlarge and color copies, and offset them, &lt;f1&gt;so you can make a copy as you need it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T075836Z" creationid="Jeff Huang" creationdate="20171221T075836Z">
@@ -4395,6 +4403,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T144222Z" creationid="zerng07" creationdate="20171219T144222Z">
         <seg>文件的格式設定非常簡單、平常，&lt;f0&gt;就像一篇作文。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The extra white space increases readability &lt;f2&gt;and prevents crowding against the borders.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094158Z" creationid="MarkHung" creationdate="20171223T094158Z">
+        <seg>額外的空白增加可讀性&lt;f2&gt;並且避免擠向邊框&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
