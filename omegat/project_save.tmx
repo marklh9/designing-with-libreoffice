@@ -1231,6 +1231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding borders</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090755Z" creationid="MarkHung" creationdate="20171223T090755Z">
+        <seg>加入邊框s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adjusting hyphenation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073559Z" creationid="Jeff Huang" creationdate="20171213T024348Z">
@@ -3799,6 +3807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similar&lt;f0&gt; Borders&lt;/f0&gt; tabs are found throughout LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090747Z" creationid="MarkHung" creationdate="20171223T090747Z">
+        <seg>LibreOffice中類似的&lt;f0&gt; 邊框&lt;/f0&gt; 頁籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similarly, instead of creating a separate frame for a section formatted differently from the rest of the document, you can include the different format in a set of styles and keep typing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171029T135930Z" creationid="zerng07" creationdate="20171029T135930Z">
@@ -4639,6 +4655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To set up borders:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090804Z" creationid="MarkHung" creationdate="20171223T090804Z">
+        <seg>設定邊框:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Today, OpenOffice.org no longer exists, but Apache OpenOffice &lt;f0&gt;does.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180733Z" creationid="zerng07" creationdate="20170817T180718Z">
@@ -4675,6 +4699,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075149Z" creationid="Jeff Huang" creationdate="20171220T075149Z">
         <seg>一般來說，你會在插入形狀後套用它們。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under&lt;f0&gt; Line Arrangement,&lt;/f0&gt; use either the &lt;f1&gt;Default&lt;/f1&gt; or &lt;f2&gt;User-defined&lt;/f2&gt; diagrams to &lt;f3&gt;choose&lt;/f3&gt; on which sides you want a border.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091000Z" creationid="MarkHung" creationdate="20171223T091000Z">
+        <seg>在&lt;f0&gt;線條安排&lt;/f0&gt;，使用&lt;f1&gt;預設&lt;/f1&gt;或&lt;f2&gt;使用者定義&lt;/f2&gt;圖示 &lt;f3&gt;選取&lt;/f3&gt;繪製框線的邊界。</seg>
       </tuv>
     </tu>
     <tu>
