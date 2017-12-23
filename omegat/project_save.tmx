@@ -3879,6 +3879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Still others &lt;f0&gt;are&lt;/f0&gt; obscure &lt;f1&gt;or&lt;/f1&gt; difficult &lt;f2&gt;to use&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T083633Z" creationid="MarkHung" creationdate="20171223T083633Z">
+        <seg>還有一些功能隱晦或難以使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Still, in the end, &lt;f0&gt;&lt;f1&gt;Designing with&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; LibreOffice&lt;/f2&gt; is not &lt;f3&gt;about design in the abstract, but about &lt;/f3&gt;getting everyday tasks done.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143258Z" creationid="zerng07" creationdate="20170822T142122Z">
