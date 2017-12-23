@@ -4311,6 +4311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The days are long past when people used shadows simply because they could.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094604Z" creationid="MarkHung" creationdate="20171223T094604Z">
+        <seg>僅因為能夠呈現陰影就使用陰影的日子已經過去很久了&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The disadvantage &lt;f0&gt;of using others’ templates&lt;/f0&gt; is that you have to sort through &lt;f1&gt;them&lt;/f1&gt; to find what you want.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T121523Z" creationid="Franklin Weng" creationdate="20171215T121523Z">
