@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Even if you minimize the use of tabs yourself, you cannot avoid LibreOffice’s built-in uses of them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T095401Z" creationid="MarkHung" creationdate="20171223T095401Z">
+        <seg>&lt;f0&gt;即使你儘少使用定位點，你也無法避免LibreOffice內建的使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;F&lt;/f0&gt;or &lt;f1&gt;Apache &lt;/f1&gt;OpenOffice’&lt;f2&gt;s collection of extensions and templates&lt;/f2&gt;, &lt;f3&gt;go to:&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193326Z" creationid="zerng07" creationdate="20170817T171125Z">
@@ -2227,6 +2235,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171029T135226Z" creationid="zerng07" creationdate="20170817T093833Z">
         <seg>致翠煦，永遠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;/f0&gt;LibreOffice uses tabs to position text in relation to bullets and numbers in list styles, and as an option in customizing tables of contents &lt;f1&gt;or in the use of a conditional style.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T095928Z" creationid="MarkHung" creationdate="20171223T095928Z">
+        <seg>舉例來說， &lt;/f0&gt;LibreOffice使用定位點定位文字相對於清單樣式中的項目符號及編號的位置， 及作為設定目錄的選項&lt;f1&gt;或選擇性樣式的設定&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4955,6 +4971,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124433Z" creationid="Franklin Weng" creationdate="20171215T124433Z">
         <seg>用這類的擴充套件可以省下幾個小時的時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using tabs effectively</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T095240Z" creationid="MarkHung" creationdate="20171223T095220Z">
+        <seg>有效使用定位點(Tab)</seg>
       </tuv>
     </tu>
     <tu>
