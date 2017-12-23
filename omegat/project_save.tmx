@@ -4879,6 +4879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While typographic practice can advise, it should never be a set of conventions followed blindly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T084936Z" creationid="MarkHung" creationdate="20171223T084936Z">
+        <seg>排版實務可以提供建議，卻不應該當成盲目遵從的習慣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With over 400 font families, &lt;f0&gt;t&lt;/f0&gt;he Open Font Library is second only to Google Fonts in its selection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184218Z" creationid="zerng07" creationdate="20170817T135831Z">
