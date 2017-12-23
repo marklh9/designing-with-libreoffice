@@ -2327,6 +2327,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, others &lt;f0&gt;you should consider carefully before using.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T082850Z" creationid="MarkHung" creationdate="20171223T082850Z">
+        <seg>然而，其他的功能 &lt;f0&gt;使用前則應該小心的考慮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the last edit before you &lt;f2&gt;finish&lt;/f2&gt; a document is also an important part of the &lt;f3&gt;design and composition &lt;/f3&gt;process&lt;f4&gt;es&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091645Z" creationid="Jeff Huang" creationdate="20171111T023602Z">
@@ -3755,6 +3763,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T082440Z" creationid="Jeff Huang" creationdate="20171220T082440Z">
         <seg>其中一些用於圖形化的文字，但其它則用於繪圖物件的一般分類，如&lt;f1&gt;帶有箭頭的物件。&lt;/f1&gt;除了&lt;f2&gt;尺寸線&lt;/f2&gt;以外，大多數並非僅適用於特定的形狀、大小或用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some of these features just have limited or specialized use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T082516Z" creationid="MarkHung" creationdate="20171223T082516Z">
+        <seg>某些功能只有有限或特殊的用途。</seg>
       </tuv>
     </tu>
     <tu>
