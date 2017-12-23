@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Besides&lt;/f0&gt;, &lt;f1&gt;possibly, they may &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;have more practical uses than they appear to do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090039Z" creationid="MarkHung" creationdate="20171223T085859Z">
+        <seg>&lt;f0&gt;此外&lt;/f0&gt;, &lt;f1&gt;這類功能可能 &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;有比想像中更實用的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Both clones and originals help you work without using proprietary fonts.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140559Z" creationid="zerng07" creationdate="20170817T100905Z">
@@ -2435,6 +2443,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T085728Z" creationid="MarkHung" creationdate="20171223T085728Z">
         <seg>我很想避免討論這類功能，但警告值得一提。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If anyone knows such a use, I would be glad to hear.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T085943Z" creationid="MarkHung" creationdate="20171223T085943Z">
+        <seg>如果有人知道用法，我願意瞭解。</seg>
       </tuv>
     </tu>
     <tu>
