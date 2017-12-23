@@ -647,6 +647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Shadows can help separate a picture from the background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T093530Z" creationid="MarkHung" creationdate="20171223T093530Z">
+        <seg>&lt;f0&gt;陰影有助於區分圖形與背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;Templates&lt;/f1&gt; link on the introductory splash screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T120953Z" creationid="Franklin Weng" creationdate="20171212T142321Z">
@@ -2399,6 +2407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you cannot explain the reason for using a shadow, you should not use one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T093630Z" creationid="MarkHung" creationdate="20171223T093630Z">
+        <seg>然而如果無法說明使用陰影的原因，應該不要使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you have already done so several times, ask yourself at some point if you are tinkering in the hope of an impossible perfection.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084400Z" creationid="Jeff Huang" creationdate="20171214T064615Z">
@@ -3851,6 +3867,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184504Z" creationid="zerng07" creationdate="20170817T182104Z">
         <seg>有些&lt;f0&gt;其他&lt;/f0&gt;組織機構會重新打包LibreOffice或Apache OpenOffice軟體，有時還會取個不同名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shadows were so over-used&lt;/f0&gt; in the mid-1990s that &lt;f1&gt;today they can look excessive and old-fashioned.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T093826Z" creationid="MarkHung" creationdate="20171223T093826Z">
+        <seg>陰影&lt;/f0&gt;在1990年中期&lt;f1&gt;太過度使用，以致於今日看起來顯得老式。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
