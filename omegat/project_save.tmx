@@ -4383,6 +4383,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is even a &lt;f0&gt;feature&lt;/f0&gt; or two that LibreOffice technically supports but implement&lt;f1&gt;s &lt;/f1&gt;so poorly that you will get more satisfying results if you use another piece of software instead.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T085615Z" creationid="MarkHung" creationdate="20171223T085615Z">
+        <seg>甚至有一兩個&lt;f0&gt;功能&lt;/f0&gt;是技術上來說LibreOffice支援但&lt;f1&gt;實作不佳&lt;/f1&gt;，以致改用別的軟體會得到較滿意的結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These wizards illustrate the kinds of decisions that you make when designing, and can give you a sense of the sorts of decisions you need to make when designing your own templates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125439Z" creationid="Franklin Weng" creationdate="20171215T125439Z">
