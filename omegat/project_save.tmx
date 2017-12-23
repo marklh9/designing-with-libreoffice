@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;As a result, they are tempted to &lt;f3&gt;corral it by putting borders around everything&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094858Z" creationid="MarkHung" creationdate="20171223T094858Z">
+        <seg>&lt;/f2&gt;結果他們傾向&lt;f3&gt;用邊框包住所有的東西。&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;The alternative is to spend more &lt;t3/&gt;time on trial and error, and still end up &lt;f4&gt;(as likely as not) &lt;/f4&gt;with something worse than if you &lt;f5&gt;had taken&lt;/f5&gt; some advice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T033016Z" creationid="zerng07" creationdate="20170818T031915Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063553Z" creationid="zerng07" creationdate="20171212T062542Z">
         <seg>對樣式的迷思</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Many b&lt;/f0&gt;eginning design&lt;f1&gt;er&lt;/f1&gt;s dislike empty space.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094703Z" creationid="MarkHung" creationdate="20171223T094703Z">
+        <seg>&lt;f0&gt;許多&lt;/f0&gt;設計初學者&lt;f1&gt;&lt;/f1&gt;不喜歡空白。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1091,6 +1107,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124719Z" creationid="Franklin Weng" creationdate="20171215T124719Z">
         <seg>&lt;f2&gt;這種做法對於簡報背景範本是不錯的方法，但是對於文字文件這一類的，特別是有複雜格式的，可能匯入匯出就會有問題。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;To them, empty space is wasted space.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094723Z" creationid="MarkHung" creationdate="20171223T094723Z">
+        <seg>&lt;f2&gt;對他們來說，空白就是浪費空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4899,6 +4923,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T153646Z" creationid="zerng07" creationdate="20170817T153133Z">
         <seg>想發揮任何辦公套裝軟體的所有潛力，就代表&lt;f0&gt;必須瞭解如何設計你的文件——而九成的設計必須知曉如何運用樣式和範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using borders in character and paragraph styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094635Z" creationid="MarkHung" creationdate="20171223T094635Z">
+        <seg>在字元及段落樣式中使用邊框。</seg>
       </tuv>
     </tu>
     <tu>
