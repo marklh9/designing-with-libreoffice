@@ -1719,6 +1719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Borders in character styles can be used for answer blanks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T101132Z" creationid="MarkHung" creationdate="20171223T101132Z">
+        <seg>字元樣式中的邊框可以作為答題填空用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both LibreOffice and Apache OpenOffice are widely available &lt;f0&gt;at no cost to anyone with an Internet connection.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T182000Z" creationid="zerng07" creationdate="20170817T182000Z">
@@ -2947,6 +2955,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091815Z" creationid="MarkHung" creationdate="20171223T091815Z">
         <seg>在多數情形，儘可能選擇最細、最簡單的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In text documents and &lt;f0&gt;presentation &lt;/f0&gt;slides, the uses of borders are limited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T101101Z" creationid="MarkHung" creationdate="20171223T101101Z">
+        <seg>在文件和&lt;f0&gt;簡報&lt;/f0&gt;投影片中，邊框的用途是有限的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4547,6 +4563,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091410Z" creationid="Jeff Huang" creationdate="20171214T055914Z">
         <seg>手動修改的地方越多，你就越接近需要讓文件重新發行新版的地步。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most &lt;f1&gt;obvious&lt;/f1&gt; &lt;f2&gt;uses &lt;/f2&gt;are to create a blank space to put an answer on a quiz, or to indicate a side bar in a newsletter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T101316Z" creationid="MarkHung" creationdate="20171223T101316Z">
+        <seg>最&lt;f1&gt;明顯的&lt;/f1&gt; &lt;f2&gt;用途&lt;/f2&gt;是製作回答試題答案的空白或新聞報紙的側邊。</seg>
       </tuv>
     </tu>
     <tu>
