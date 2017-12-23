@@ -3759,6 +3759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some are design elements that seemed reasonable &lt;f0&gt;decades ago&lt;/f0&gt; when Writer was first released, but have since become obsolete – and never were (to be polite) in the best typographical tradition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T083511Z" creationid="MarkHung" creationdate="20171223T083511Z">
+        <seg>某些功能是Writer首次發行時&lt;f0&gt;(約二三十年前)&lt;/f0&gt;合理的設計元素，現在不僅已經過時，而且從未成為最佳的排版慣例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of these are for graphic text, but others are for general categories of drawing objects, such as &lt;f1&gt;Object with arrow.&lt;/f1&gt; Most are not for specific shapes, sizes, or purposes, except for &lt;f2&gt;Dimension Line.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T082440Z" creationid="Jeff Huang" creationdate="20171220T082440Z">
