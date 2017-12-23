@@ -639,6 +639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; diagram sets all sides together, offering pre-defined arrangements at a single click.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091544Z" creationid="MarkHung" creationdate="20171223T091454Z">
+        <seg>&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預先設置集&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;圖示可以單鍵選用預先設定好的線條安排，一次設定全部的邊界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Presentation&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; template is particularly useful.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134559Z" creationid="Franklin Weng" creationdate="20171215T134429Z">
@@ -4705,8 +4713,8 @@
       <tuv lang="EN">
         <seg>Under&lt;f0&gt; Line Arrangement,&lt;/f0&gt; use either the &lt;f1&gt;Default&lt;/f1&gt; or &lt;f2&gt;User-defined&lt;/f2&gt; diagrams to &lt;f3&gt;choose&lt;/f3&gt; on which sides you want a border.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091000Z" creationid="MarkHung" creationdate="20171223T091000Z">
-        <seg>在&lt;f0&gt;線條安排&lt;/f0&gt;，使用&lt;f1&gt;預設&lt;/f1&gt;或&lt;f2&gt;使用者定義&lt;/f2&gt;圖示 &lt;f3&gt;選取&lt;/f3&gt;繪製框線的邊界。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091507Z" creationid="MarkHung" creationdate="20171223T091000Z">
+        <seg>在&lt;f0&gt;線條安排&lt;/f0&gt;，使用&lt;f1&gt;預先設置集&lt;/f1&gt;或&lt;f2&gt;使用者定義&lt;/f2&gt;圖示 &lt;f3&gt;選取&lt;/f3&gt;繪製框線的邊界。</seg>
       </tuv>
     </tu>
     <tu>
