@@ -823,6 +823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;In Draw and Impress, a similar feature is called &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Line.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090703Z" creationid="MarkHung" creationdate="20171223T090703Z">
+        <seg>&lt;f1&gt;在Draw和Impress中，類似的功能稱為&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;線條。&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In particular, the Draw and Impress version has &lt;/f1&gt;&lt;f2&gt;Connectors&lt;/f2&gt; and &lt;f3&gt;Arrow&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075504Z" creationid="Jeff Huang" creationdate="20171220T075504Z">
@@ -1243,6 +1251,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120609Z" creationid="Franklin Weng" creationdate="20171212T120609Z">
         <seg>&lt;f0&gt;讓文件保持&lt;/f0&gt;與範本的連結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All LibreOffice’s applications include an identical &lt;f0&gt;Borders&lt;/f0&gt; tab on at least one of their styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090518Z" creationid="MarkHung" creationdate="20171223T090518Z">
+        <seg>所有LibreOffice模組在樣式設定都包含相同的&lt;f0&gt;邊框&lt;/f0&gt;頁籤。</seg>
       </tuv>
     </tu>
     <tu>
