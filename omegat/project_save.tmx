@@ -1233,8 +1233,8 @@
       <tuv lang="EN">
         <seg>Adding borders</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090755Z" creationid="MarkHung" creationdate="20171223T090755Z">
-        <seg>加入邊框s</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091011Z" creationid="MarkHung" creationdate="20171223T090755Z">
+        <seg>加入邊框</seg>
       </tuv>
     </tu>
     <tu>
@@ -2801,8 +2801,8 @@
       <tuv lang="EN">
         <seg>In the end, anything that makes the text more readable or easier to navigate &lt;f1&gt;or maintain &lt;/f1&gt;is legitimate.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T085340Z" creationid="MarkHung" creationdate="20171223T085340Z">
-        <seg>最終，能讓文字更可讀、更易瀏覽&lt;f1&gt;或維護&lt;/f1&gt;的都是合理的方法。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091225Z" creationid="MarkHung" creationdate="20171223T085340Z">
+        <seg>最終，能讓文字更可讀、更易瀏覽&lt;f1&gt;或更易維護&lt;/f1&gt;的都是合理的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4657,8 +4657,8 @@
       <tuv lang="EN">
         <seg>To set up borders:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090804Z" creationid="MarkHung" creationdate="20171223T090804Z">
-        <seg>設定邊框:</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091018Z" creationid="MarkHung" creationdate="20171223T090804Z">
+        <seg>設定邊框的方式:</seg>
       </tuv>
     </tu>
     <tu>
