@@ -863,6 +863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;T&lt;/f1&gt;his chapter is about less common character and paragraph settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T082100Z" creationid="MarkHung" creationdate="20171223T082100Z">
+        <seg>&lt;f1&gt;本章&lt;/f1&gt;是關於較不常用字元及段落設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;The rest is mostly about features that are not quite styles, or that are dependent on styles for full efficiency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163113Z" creationid="zerng07" creationdate="20170817T162745Z">
@@ -1715,6 +1723,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120543Z" creationid="Franklin Weng" creationdate="20171212T120543Z">
         <seg>只在範本中變更格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;5&lt;/f0&gt; discusses settings that almost all documents use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T081917Z" creationid="MarkHung" creationdate="20171223T081917Z">
+        <seg>&lt;f0&gt;第5章&lt;/f0&gt;討論幾乎所有文件都使用的設定。</seg>
       </tuv>
     </tu>
     <tu>
