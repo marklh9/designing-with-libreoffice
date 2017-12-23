@@ -623,6 +623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Set the line’s &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;,&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Width&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Color&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091722Z" creationid="MarkHung" creationdate="20171223T091722Z">
+        <seg>&lt;f0&gt;設定線條&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;、&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;寬度&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;和&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;顏色&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;Templates&lt;/f1&gt; link on the introductory splash screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T120953Z" creationid="Franklin Weng" creationdate="20171212T142321Z">
@@ -2803,6 +2811,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054022Z" creationid="Jeff Huang" creationdate="20171111T131840Z">
         <seg>如果是紙本文件，段落長度可以更長，但僅限於你需要較長的詳細論述時使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most circumstances, choose the thinnest, plainest style possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091815Z" creationid="MarkHung" creationdate="20171223T091815Z">
+        <seg>在多數情形，儘可能選擇最細、最簡單的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5007,6 +5023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With&lt;/f3&gt; the &lt;f4&gt;User-defined &lt;/f4&gt;diagram, you can set each side separately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091631Z" creationid="MarkHung" creationdate="20171223T091631Z">
+        <seg>使用&lt;/f3&gt;&lt;f4&gt;使用者定義&lt;/f4&gt;圖示，可以個別設定每個邊界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125259Z" creationid="Franklin Weng" creationdate="20171212T125259Z">
@@ -5195,6 +5219,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T080000Z" creationid="Jeff Huang" creationdate="20171123T080000Z">
         <seg>你可能會決定只為關鍵元素命名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may need to choose a thicker line so it is detectable on low-end printers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091859Z" creationid="MarkHung" creationdate="20171223T091859Z">
+        <seg>你可能須要選取較粗的線條，以便較低階的印表機偵測。</seg>
       </tuv>
     </tu>
     <tu>
