@@ -631,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Set the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Spacing to contents&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; on each side.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T092656Z" creationid="MarkHung" creationdate="20171223T092656Z">
+        <seg>&lt;f0&gt;設定每邊&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;離內容的邊距&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Set the line’s &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;,&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Width&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Color&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091722Z" creationid="MarkHung" creationdate="20171223T091722Z">
@@ -2251,6 +2259,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120413Z" creationid="Franklin Weng" creationdate="20171212T120413Z">
         <seg>一般來說，要盡量避免&lt;f0&gt;讓文件與其範本脫勾。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generous spacing increases readability by avoiding a cramped look.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T093412Z" creationid="MarkHung" creationdate="20171223T093412Z">
+        <seg>寬鬆的間距增加可讀性，避免難以辨識的外觀。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
