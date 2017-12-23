@@ -3959,6 +3959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text tools and traps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T081617Z" creationid="MarkHung" creationdate="20171223T081617Z">
+        <seg>文字工具與陷阱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Th&lt;f5&gt;ese &lt;/f5&gt;borders do not print, but to view the tables properly, &lt;f6&gt;un&lt;/f6&gt;check &lt;f7&gt;Table Boundaries&lt;/f7&gt; on the right-click menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084715Z" creationid="Jeff Huang" creationdate="20171214T065322Z">
