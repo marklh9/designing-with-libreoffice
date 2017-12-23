@@ -2743,6 +2743,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the end, anything that makes the text more readable or easier to navigate &lt;f1&gt;or maintain &lt;/f1&gt;is legitimate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T085340Z" creationid="MarkHung" creationdate="20171223T085340Z">
+        <seg>最終，能讓文字更可讀、更易瀏覽&lt;f1&gt;或維護&lt;/f1&gt;的都是合理的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the end, you may not save time so much as exchange the time spent designing &lt;f1&gt;for &lt;/f1&gt;searching and tweaking templates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124210Z" creationid="Franklin Weng" creationdate="20171215T124210Z">
