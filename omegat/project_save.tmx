@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For all backgrounds/areas, the basic rule is: combine&lt;/f0&gt; light-colored text with a dark background, and dark-colored text with a light background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T055907Z" creationid="MarkHung" creationdate="20171224T055907Z">
+        <seg>&lt;f0&gt;對所有的背景/區域而言，基本規則是：結合&lt;/f0&gt;淺色文字及深色背景，深色文字及淺色背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For example, a character style&lt;/f0&gt; might put characters into italics if they form the title of the book.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T144828Z" creationid="zerng07" creationdate="20170903T144756Z">
@@ -1155,6 +1163,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094723Z" creationid="MarkHung" creationdate="20171223T094723Z">
         <seg>&lt;f2&gt;對他們來說，空白就是浪費空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;Dark text on a light background is easiest for many people to read, because that is the most commonly used.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T060033Z" creationid="MarkHung" creationdate="20171224T060033Z">
+        <seg>&lt;f3&gt;淺色背景上的深色文字對許多人來說最容易閱讀，因為最常使用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5355,6 +5371,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091631Z" creationid="MarkHung" creationdate="20171223T091631Z">
         <seg>使用&lt;/f3&gt;&lt;f4&gt;使用者定義&lt;/f4&gt;圖示，可以個別設定每個邊界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without a strong contrast, you&lt;f1&gt;r document&lt;/f1&gt; &lt;f2&gt;loses&lt;/f2&gt; readability.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T055940Z" creationid="MarkHung" creationdate="20171224T055940Z">
+        <seg>缺乏強烈對比，你的&lt;f1&gt;文件&lt;/f1&gt; &lt;f2&gt;失去&lt;/f2&gt;可讀性</seg>
       </tuv>
     </tu>
     <tu>
