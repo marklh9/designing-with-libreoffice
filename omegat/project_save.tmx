@@ -2615,6 +2615,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you &lt;f0&gt;have two options for adding support for more languages and locales.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T055220Z" creationid="MarkHung" creationdate="20171224T055220Z">
+        <seg>然而，你有&lt;f0&gt;兩個選擇可以增加更多語言及區域設定的支援。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you can &lt;f0&gt;also design&lt;/f0&gt; a &lt;f1&gt;template with far more formatting information as default&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T113915Z" creationid="Franklin Weng" creationdate="20171212T101117Z">
@@ -3371,6 +3379,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184038Z" creationid="zerng07" creationdate="20170817T102037Z">
         <seg>其他許多自由字型可線上下載，無論作業系統為何。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many users use only the default language determined by the version of LibreOffice that they downloaded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T043549Z" creationid="MarkHung" creationdate="20171224T043549Z">
+        <seg>許多使用者只使用所下載的LibreOffice提供的預設語言。</seg>
       </tuv>
     </tu>
     <tu>
