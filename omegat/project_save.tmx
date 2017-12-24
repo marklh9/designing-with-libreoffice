@@ -815,6 +815,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using multiple&lt;/f0&gt; language&lt;f1&gt;s&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T042954Z" creationid="MarkHung" creationdate="20171224T042954Z">
+        <seg>&lt;f0&gt;使用多種&lt;/f0&gt;語言&lt;f1&gt;s&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;What the spell check can do is reduce the drudgery of catching typos and routine errors&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080552Z" creationid="Jeff Huang" creationdate="20171213T030837Z">
@@ -3239,6 +3247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice supports over 110 languages, and many more locales.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T043028Z" creationid="MarkHung" creationdate="20171224T043028Z">
+        <seg>LibreOffice支援超過110種語言以及許多區域設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice’s letter template wizard.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125924Z" creationid="Franklin Weng" creationdate="20171215T125924Z">
@@ -4851,6 +4867,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100343Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
         <seg>一般而言，範本不太會用來規範文件的結構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This tool is more comprehensive than &lt;f0&gt;the formatting&lt;/f0&gt; available from within paragraph style formatting, with a selection of character styles and the exact positioning of numbers in relation to text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T042941Z" creationid="MarkHung" creationdate="20171224T042941Z">
+        <seg>這個工具比段落樣式中的&lt;f0&gt;格式&lt;/f0&gt;更完善，可以選擇字元樣式及編號相對文字的位置。</seg>
       </tuv>
     </tu>
     <tu>
