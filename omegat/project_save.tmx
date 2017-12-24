@@ -2327,6 +2327,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in the United Kingdom English locale, the correct spelling is “neighbo&lt;f0&gt;u&lt;/f0&gt;rs,” while in United States English, it is “neighbors.” &lt;f1&gt;A complete locale consists of separate dictionaries for spell-checking, hyphenation, and thesauruses.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T043339Z" creationid="MarkHung" creationdate="20171224T043339Z">
+        <seg>舉例來說，在英國英語區域設定中，鄰居正確的拼法是“neighbo&lt;f0&gt;u&lt;/f0&gt;rs,” 而在美國英語中，是“neighbors.” &lt;f1&gt;完整的區域設定是由獨立的拼字、連字符及同義字字典所構成。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you may have few needs for a border or background in most Writer styles, but in Draw such characteristics &lt;f0&gt;(named &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;area&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt; become a primary concern.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T082137Z" creationid="Jeff Huang" creationdate="20171221T082137Z">
@@ -3283,6 +3291,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T182818Z" creationid="zerng07" creationdate="20170817T182523Z">
         <seg>各GNU/Linux散布版尤其常作這類外觀改動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locales are variants of a language that have &lt;f0&gt;unique&lt;/f0&gt; vocabularies and spellings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T043145Z" creationid="MarkHung" creationdate="20171224T043145Z">
+        <seg>區域設定是語言的變形，有&lt;f0&gt;獨特的&lt;/f0&gt;語彙和拼字。</seg>
       </tuv>
     </tu>
     <tu>
