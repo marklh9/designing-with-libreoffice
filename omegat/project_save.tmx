@@ -1679,6 +1679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful, too, not to use &lt;f0&gt;backgrounds with too many different colors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T060208Z" creationid="MarkHung" creationdate="20171224T060110Z">
+        <seg>同時小心，不要使用&lt;f0&gt;太多顏色的背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Become more specific by recalling what documents you have written in the past.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124256Z" creationid="Franklin Weng" creationdate="20171213T124256Z">
@@ -3455,6 +3463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most foreground colors are lost on multi-colored backgrounds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T060158Z" creationid="MarkHung" creationdate="20171224T060158Z">
+        <seg>多數的前景色在多色的背景中遺失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most must be exported &lt;f0&gt;via the free-licensed font editor Fontforge &lt;/f0&gt;to a usable format .</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T144224Z" creationid="zerng07" creationdate="20170817T142704Z">
@@ -5019,6 +5035,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180733Z" creationid="zerng07" creationdate="20170817T180718Z">
         <seg>時至今日，OpenOffice.org已不存在，存續的是Apache OpenOffice。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Too often, the result will be illegibility.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T060345Z" creationid="MarkHung" creationdate="20171224T060345Z">
+        <seg>經常的結果是難讀的內容。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
