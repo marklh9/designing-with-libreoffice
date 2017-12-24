@@ -2751,6 +2751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are choosing a color background, make sure that the color you want is among LibreOffice’s defined colors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T055455Z" creationid="MarkHung" creationdate="20171224T055455Z">
+        <seg>如果你選擇使用有色背景，確認你想要的顏色是LibreOffice定義的顏色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are like most people, you &lt;f0&gt;will probably&lt;/f0&gt; come up with &lt;f1&gt;at least three or four&lt;/f1&gt; different templates that you will need regularly.&lt;f2&gt; &lt;/f2&gt;If you don't download them, create them gradually as the need arises.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132557Z" creationid="Franklin Weng" creationdate="20171213T132557Z">
