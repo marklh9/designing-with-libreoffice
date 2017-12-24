@@ -4095,6 +4095,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similarly, before you add a graphic background, prepare its dimensions and transparency in a graphics editor such as &lt;f0&gt;GIMP&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T055701Z" creationid="MarkHung" creationdate="20171224T055701Z">
+        <seg>相似的，在你加入圖形背景之前，先在&lt;f0&gt;GIMP&lt;/f0&gt;之類的圖形編輯軟體準備顏色的維度和透明度設定。&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similarly, instead of creating a separate frame for a section formatted differently from the rest of the document, you can include the different format in a set of styles and keep typing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171029T135930Z" creationid="zerng07" creationdate="20171029T135930Z">
@@ -4467,6 +4475,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100933Z" creationid="Franklin Weng" creationdate="20171212T100933Z">
         <seg>2002 年，我第一次設計一個通用目的的範本時，花了大概幾個小時來設計，然後又花了大概兩小時來微調。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The basic rule for backgrounds: text and background should contrast with each other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T055753Z" creationid="MarkHung" creationdate="20171224T055753Z">
+        <seg>背景的基本規則：文字和背景之間應形成對比。</seg>
       </tuv>
     </tu>
     <tu>
