@@ -2879,6 +2879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to number paragraphs as lines in a poem, use &lt;f0&gt;Tools &gt; Line Number&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T042700Z" creationid="MarkHung" creationdate="20171224T042700Z">
+        <seg>如果要在段落編號(像詩)，使用&lt;f0&gt;工具 &gt; 行編號&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you work for a company, does it have corporate colors that you will constantly use?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123755Z" creationid="Franklin Weng" creationdate="20171213T123755Z">
