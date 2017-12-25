@@ -2824,6 +2824,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, as you might guess from the existence of the &lt;f1&gt;Outline &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Numbering &lt;/f4&gt;tab, paragraph styles are essential to lists and outlining.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T140458Z" creationid="MarkHung" creationdate="20171225T140458Z">
+        <seg>然而，如你可從&lt;f1&gt;「大綱&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;及&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;編號」&lt;/f4&gt;頁籤的存在所猜測的，清單及大綱需要段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, at this point, your work is ended and so is this book (or very nearly).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091744Z" creationid="Jeff Huang" creationdate="20171214T070033Z">
@@ -3745,6 +3753,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lists have enough features that they &lt;f0&gt;are a separate&lt;/f0&gt; type of style in Writer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T140138Z" creationid="MarkHung" creationdate="20171225T140138Z">
+        <seg>清單有足夠的功能&lt;f0&gt;個別&lt;/f0&gt;成為Writer的樣式類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Locales are variants of a language that have &lt;f0&gt;unique&lt;/f0&gt; vocabularies and spellings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T043145Z" creationid="MarkHung" creationdate="20171224T043145Z">
@@ -4309,6 +4325,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T043044Z" creationid="MarkHung" creationdate="20171225T043044Z">
         <seg>否則，你須要分別在不同的段落樣式中設定定位點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Outlining and making lists</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T140028Z" creationid="MarkHung" creationdate="20171225T140028Z">
+        <seg>製作大綱及清單</seg>
       </tuv>
     </tu>
     <tu>
