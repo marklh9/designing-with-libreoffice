@@ -2799,6 +2799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;f0&gt;not&lt;/f0&gt;, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors&lt;/f1&gt; to add it as a custom color, &lt;f2&gt;or make adjustments on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Transparency&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab (see “&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Setting transparency&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;,” page &lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;1&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;).&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T022801Z" creationid="MarkHung" creationdate="20171225T022801Z">
+        <seg>&lt;f0&gt;否則&lt;/f0&gt;，到&lt;f1&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 顏色&lt;/f1&gt; 增加到自訂的顏色，&lt;f2&gt;，或者調整 &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;透明&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;頁籤 (見 “&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;設定透明度&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;,” 頁 &lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;1&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;).&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If anyone knows such a use, I would be glad to hear.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T085943Z" creationid="MarkHung" creationdate="20171223T085943Z">
@@ -5379,6 +5387,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101041Z" creationid="Franklin Weng" creationdate="20171212T101041Z">
         <seg>使用範本的重要意義在於&lt;f0&gt;預先規畫&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;f0&gt;Area&lt;/f0&gt; and &lt;f1&gt;Transparency&lt;/f1&gt; tabs, you can give a paragraph its own watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T022515Z" creationid="MarkHung" creationdate="20171225T022515Z">
+        <seg>使用&lt;f0&gt;區塊&lt;/f0&gt;及&lt;f1&gt;透明&lt;/f1&gt;頁籤，可以讓段落有自己的浮水印。</seg>
       </tuv>
     </tu>
     <tu>
