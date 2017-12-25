@@ -3311,6 +3311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Like &lt;f0&gt;b&lt;/f0&gt;orders, &lt;f1&gt;b&lt;/f1&gt;ackgrounds have limited use in character and paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T014157Z" creationid="MarkHung" creationdate="20171225T014101Z">
+        <seg>如同 &lt;f0&gt;邊界&lt;/f0&gt;，&lt;f1&gt;背景&lt;/f1&gt;在字元及段落樣式中用處有限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like other LibreOffice applications, Draw &lt;f0&gt;includes&lt;/f0&gt; pre-defined styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081832Z" creationid="Jeff Huang" creationdate="20171220T081832Z">
@@ -4775,6 +4783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two are not necessarily the same.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T013958Z" creationid="MarkHung" creationdate="20171225T013950Z">
+        <seg>兩種列印模式並不一定相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The ultimate test is to read a passage out l&lt;f0&gt;oud&lt;/f0&gt; at a regular, medium-quick pace.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054329Z" creationid="Jeff Huang" creationdate="20171111T132659Z">
@@ -5159,6 +5175,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using backgrounds in character and paragraph styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T014047Z" creationid="MarkHung" creationdate="20171225T014047Z">
+        <seg>在字元及段落樣式中使用背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using borders in character and paragraph styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094635Z" creationid="MarkHung" creationdate="20171223T094635Z">
@@ -5267,6 +5291,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180524Z" creationid="zerng07" creationdate="20170817T180510Z">
         <seg>當甲骨文 (Oracle) &lt;f1&gt;於2010年&lt;/f1&gt;買下昇陽之後，LibreOffice 便開始開發維護自己的&lt;f2&gt;OpenOffice.org&lt;/f2&gt;版本，這也是&lt;f3&gt;源始碼的&lt;/f3&gt;授權條款&lt;f4&gt;所允許的作法&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When adding backgrounds, consider whether you need to check the contrast for black and white as well as color printing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T013923Z" creationid="MarkHung" creationdate="20171225T013923Z">
+        <seg>加入背景時，考慮是否需要檢查黑白及彩色列印的對比。</seg>
       </tuv>
     </tu>
     <tu>
