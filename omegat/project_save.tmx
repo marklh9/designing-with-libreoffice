@@ -1528,6 +1528,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>According to the online help, the field is supposed to give the text to use instead of a single letter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T133447Z" creationid="MarkHung" creationdate="20171225T133447Z">
+        <seg>根據線上說明，這個欄位可設定使用的文字取代單一字元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Action</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111203Z" creationid="zerng07" creationdate="20171219T111203Z">
