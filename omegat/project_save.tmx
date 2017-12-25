@@ -520,8 +520,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you are reading this book from beginning to end, at this point&lt;/f0&gt; all the features of character and paragraph styles that you &lt;f1&gt;might want&lt;/f1&gt; to use regularly have been &lt;f2&gt;covered&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T032250Z" creationid="MarkHung" creationdate="20171225T032250Z">
-        <seg>&lt;f0&gt;如果以從頭到尾讀這本書，至此已&lt;f2&gt;涵蓋了&lt;/f2&gt;&lt;/f0&gt;&lt;f1&gt;你可能想用的&lt;/f1&gt;所有字元和段落樣式的功能。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T124001Z" creationid="MarkHung" creationdate="20171225T032250Z">
+        <seg>如果你從頭到尾讀這本書，至此已涵蓋了你可能想用的所有字元和段落樣式的功能。</seg>
       </tuv>
     </tu>
     <tu>
