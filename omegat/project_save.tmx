@@ -887,6 +887,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The trouble with all the types of tabs is that &lt;/f0&gt;they can be an unstable way of positioning characters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T042143Z" creationid="MarkHung" creationdate="20171225T042143Z">
+        <seg>&lt;f0&gt;所有的定位點的問題是&lt;/f0&gt;他們可能是定位字元不穩定的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The&lt;/f0&gt; selection includes Baskervald (Baskerville), Gillius (Gill Sans), and Universalis (Univers), as well as original &lt;t1/&gt;fonts such as Mint Spirit, which was originally designed as the unofficial font for the Linux Mint distribution.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T182300Z" creationid="zerng07" creationdate="20170817T102744Z">
@@ -2555,6 +2563,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133143Z" creationid="Franklin Weng" creationdate="20171213T133143Z">
         <seg>例如，與其將範本命名為&lt;f0&gt;letter.ott&lt;/f0&gt;，不如改為&lt;f1&gt;personal-letter&lt;/f1&gt; – 或是更好的做法是，&lt;f2&gt;長而精準&lt;/f2&gt;的名稱，像是&lt;f3&gt;personal-letter-&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;formal-structure&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;等等。&lt;/f6&gt; &lt;s7/&gt;&lt;f8&gt;範本名稱越精準，對你來說也越容易找到。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, the decimal character is a period in most English locales.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T041844Z" creationid="MarkHung" creationdate="20171225T041844Z">
+        <seg>例如，小數點字元在英文中是句點。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4987,6 +5003,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143020Z" creationid="zerng07" creationdate="20170822T141123Z">
         <seg>而表現出這類性質的特徵，應該只有那些經過訓練的&lt;f2&gt;眼睛&lt;/f2&gt;能警覺分辨出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The four types of tab positions &lt;f0&gt;differ in where text appears in relation to the tab stop in the ruler.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T042055Z" creationid="MarkHung" creationdate="20171225T042055Z">
+        <seg>四種定位點&lt;f0&gt;在尺規上於定位點不同的相對位置標示文字。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
