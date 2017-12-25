@@ -271,6 +271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Automating&lt;/f0&gt; lists</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T142007Z" creationid="MarkHung" creationdate="20171225T142007Z">
+        <seg>&lt;f0&gt;自動化&lt;/f0&gt;清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Besides&lt;/f0&gt;, &lt;f1&gt;possibly, they may &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;have more practical uses than they appear to do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024422Z" creationid="MarkHung" creationdate="20171223T085859Z">
@@ -1728,6 +1736,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An unordered list is another name for a bullet list, and an ordered list is another name for a numbered list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T142215Z" creationid="MarkHung" creationdate="20171225T142215Z">
+        <seg>無序清單是項目符號清單的另一個名字，有序清單則是編號清單的另一個名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another &lt;f0&gt;point&lt;/f0&gt; to be aware of: &lt;f1&gt;Drawing &lt;/f1&gt;styles are for formatting only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075632Z" creationid="Jeff Huang" creationdate="20171220T075632Z">
@@ -1860,6 +1876,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T053930Z" creationid="Jeff Huang" creationdate="20171111T130420Z">
         <seg>問問自己：你的&lt;f0&gt;論說&lt;/f0&gt;完整嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Associate a list style with a paragraph style in the &lt;f0&gt;Numbering &lt;/f0&gt;section on a paragraph style’s &lt;f1&gt;Outline &amp; Numbering&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T141959Z" creationid="MarkHung" creationdate="20171225T141959Z">
+        <seg>在段落樣式&lt;f1&gt;「大綱與編號」&lt;/f1&gt;頁籤中的&lt;f0&gt;「編號」&lt;/f0&gt;區塊，連結清單樣式與段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
