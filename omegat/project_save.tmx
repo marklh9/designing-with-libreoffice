@@ -961,8 +961,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Using multiple&lt;/f0&gt; language&lt;f1&gt;s&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T042954Z" creationid="MarkHung" creationdate="20171224T042954Z">
-        <seg>&lt;f0&gt;使用多種&lt;/f0&gt;語言&lt;f1&gt;s&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T130752Z" creationid="MarkHung" creationdate="20171224T042954Z">
+        <seg>&lt;f0&gt;使用多種&lt;/f0&gt;語言&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
