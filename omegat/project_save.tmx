@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Decimal: &lt;/f0&gt;Places the decimal at the tab position, &lt;f1&gt;and whole numbers and text to its left&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T041731Z" creationid="MarkHung" creationdate="20171225T041731Z">
+        <seg>&lt;f0&gt;小數點: &lt;/f0&gt;將小數點對齊定位點，&lt;f1&gt;，整數或文字的部分置於定位點左側。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Describing itself as “&lt;/f0&gt;the first ever open-source &lt;f1&gt;type&lt;/f1&gt; foundry,” &lt;f2&gt;The League of Moveable Type offers a small but select library of original font designs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T133043Z" creationid="zerng07" creationdate="20170817T133625Z">
@@ -1275,6 +1283,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094723Z" creationid="MarkHung" creationdate="20171223T094723Z">
         <seg>&lt;f2&gt;對他們來說，空白就是浪費空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;You can set the decimal character according to the language locale.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T041818Z" creationid="MarkHung" creationdate="20171225T041818Z">
+        <seg>&lt;f2&gt;你可以選取語言區域化設定設定小數點的使用的字元。</seg>
       </tuv>
     </tu>
     <tu>
