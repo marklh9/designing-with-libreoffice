@@ -3687,6 +3687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Much of the time, the standard typewriter tab stops of half or one inch will be far &lt;f1&gt;more&lt;/f1&gt; than you need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T034523Z" creationid="MarkHung" creationdate="20171225T034523Z">
+        <seg>大多時候，標準打字機半吋或一吋的定位點已經遠&lt;f1&gt;超過&lt;/f1&gt;你所需。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>My LibreOffice articles include:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165356Z" creationid="zerng07" creationdate="20170822T155902Z">
@@ -4639,6 +4647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tabs are set positions on a line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T034213Z" creationid="MarkHung" creationdate="20171225T034213Z">
+        <seg>定位點是一行文字中設定好的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Template extensio&lt;f0&gt;n&lt;/f0&gt;s for Open Document Format and the older OpenOffice.org format.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125408Z" creationid="Franklin Weng" creationdate="20171212T125348Z">
@@ -5491,6 +5507,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125431Z" creationid="Franklin Weng" creationdate="20171212T125431Z">
         <seg>管理範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, tab stops should be multiples of the &lt;f0&gt;line-spacing&lt;/f0&gt;, and kept to the minimum necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T034417Z" creationid="MarkHung" creationdate="20171225T034417Z">
+        <seg>通常，定位點應該是&lt;f0&gt;行距&lt;/f0&gt;的整數倍，並且保留所需要最少部分。.</seg>
       </tuv>
     </tu>
     <tu>
