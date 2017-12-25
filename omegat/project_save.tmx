@@ -3376,6 +3376,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, use a table with invisible borders and carefully adjusted column widths.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T115748Z" creationid="MarkHung" creationdate="20171225T115748Z">
+        <seg>改用無邊框的表格並且小心地調整欄寬取代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T155525Z" creationid="zerng07" creationdate="20170817T150101Z">
@@ -4420,6 +4428,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T042708Z" creationid="MarkHung" creationdate="20171225T015949Z">
         <seg>以行數設定&lt;f0&gt;首字放大的高度&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the tab positions as late as possible in your designing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T115827Z" creationid="MarkHung" creationdate="20171225T115827Z">
+        <seg>儘量推遲設計中的定位點設定。</seg>
       </tuv>
     </tu>
     <tu>
