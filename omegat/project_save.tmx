@@ -280,8 +280,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create a transparency to add quickly (if approximately) another color without formally defining a color in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T033300Z" creationid="MarkHung" creationdate="20171225T033300Z">
-        <seg>&lt;f0&gt;透過建立「透明」快速加入其他顏色，而不用在&lt;f1&gt;&lt;f2&gt;工具 &gt; 選像 &gt; LibreOffice &gt; 顏色&lt;/f2&gt;&lt;/f1&gt;中定義顏色&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T033548Z" creationid="MarkHung" creationdate="20171225T033300Z">
+        <seg>&lt;f0&gt;透過建立「透明」快速加入其他(近似的)顏色，而不用在&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 顏色&lt;/f2&gt;&lt;/f1&gt;中定義顏色&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2143,6 +2143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a background gradient using degrees of transparency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T033712Z" creationid="MarkHung" creationdate="20171225T033712Z">
+        <seg>利用透明度建立漸層背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created for the &lt;f0&gt;KDE&lt;/f0&gt; desktop environment on Linux, Oxygen is a modern geometric font, made of simple shapes, but highly readable and pleasing to the eye.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T143127Z" creationid="zerng07" creationdate="20170817T142039Z">
@@ -2283,6 +2291,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T063636Z" creationid="zerng07" creationdate="20170822T161048Z">
         <seg>在我職涯的那個階段裡，有許多機會能對OpenOffice.org做壓力測試，比方說編寫好幾分長達700頁以上的手冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit the transparency of a background/area to improve the contrast between the foreground and background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T033629Z" creationid="MarkHung" creationdate="20171225T033629Z">
+        <seg>編輯背景/區塊的透明度，以改善前景和背景之間的對比。</seg>
       </tuv>
     </tu>
     <tu>
