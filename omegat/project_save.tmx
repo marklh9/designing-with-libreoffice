@@ -5415,6 +5415,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use of tab&lt;f0&gt;s&lt;/f0&gt; can be greatly minimized.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T035025Z" creationid="MarkHung" creationdate="20171225T035025Z">
+        <seg>可以極度減少定位點的使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use styles if:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114209Z" creationid="zerng07" creationdate="20171219T114158Z">
@@ -5635,6 +5643,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125912Z" creationid="Franklin Weng" creationdate="20171215T125912Z">
         <seg>當你完成範本的設定後，精靈預設會將產生的範本存到你個人的範本目錄並註冊，讓你可以&lt;f0&gt;立即使用&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you do use tabs, make each a multiple of the line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T035224Z" creationid="MarkHung" creationdate="20171225T035224Z">
+        <seg>使用定位點時，將定位點訂於行距的整數倍。</seg>
       </tuv>
     </tu>
     <tu>
