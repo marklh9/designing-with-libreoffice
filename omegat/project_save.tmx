@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A gradient makes a transition between two colors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T034003Z" creationid="MarkHung" creationdate="20171225T034003Z">
+        <seg>&lt;f0&gt;漸層產生在兩種顏色之間交替的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A more reliable solution&lt;/f0&gt; &lt;f1&gt;is usually to &lt;/f1&gt;copy and paste the file contents to a blank file created from the original template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124812Z" creationid="Franklin Weng" creationdate="20171212T124812Z">
@@ -4295,6 +4303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting tab &lt;f0&gt;stops&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T034146Z" creationid="MarkHung" creationdate="20171225T034146Z">
+        <seg>設定&lt;f0&gt;「定位點」&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting transparency</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T014902Z" creationid="MarkHung" creationdate="20171225T014902Z">
@@ -4683,6 +4699,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081112Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
         <seg>&lt;f2&gt;舉例來說，&lt;/f2&gt;有一個以&lt;f3&gt;帶有陰影的&lt;/f3&gt;樣式預定義好的物件&lt;f4&gt;可以格式化為&lt;/f4&gt;同時是矩形與&lt;f5&gt;除了尺寸以外都一樣的形狀。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Transparency&lt;/f0&gt; tab works with the &lt;f1&gt;Area&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T034116Z" creationid="MarkHung" creationdate="20171225T034116Z">
+        <seg>使用&lt;f0&gt;「透明」&lt;/f0&gt;頁籤與 &lt;f1&gt;「區域」&lt;/f1&gt;頁籤。</seg>
       </tuv>
     </tu>
     <tu>
