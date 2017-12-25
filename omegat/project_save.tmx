@@ -1143,6 +1143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;The smallest formatting change can sometimes throw them out of position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T042216Z" creationid="MarkHung" creationdate="20171225T042216Z">
+        <seg>&lt;f1&gt;有時最小的改變有時候會造成移位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;This practice may disturb your work, but it means that &lt;/f1&gt;you won’t have to remember what changed, or wonder if you made an accidental change &lt;f2&gt;when you receive notice of the change the next time that you open the file.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T121320Z" creationid="Franklin Weng" creationdate="20171212T120744Z">
