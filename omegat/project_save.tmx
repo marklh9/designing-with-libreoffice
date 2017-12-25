@@ -247,6 +247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Associate list styles with paragraph styles so that they can be applied automatically.&lt;/f0&gt; &lt;f1&gt;The same list style can be associated with multiple paragraph styles.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T140708Z" creationid="MarkHung" creationdate="20171225T140708Z">
+        <seg>&lt;f0&gt;連結清單樣式與段落樣式，使樣式自動套用。&lt;/f0&gt; &lt;f1&gt;同一個清單樣式可以和多個段落樣式連結。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Besides&lt;/f0&gt;, &lt;f1&gt;possibly, they may &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;have more practical uses than they appear to do.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024422Z" creationid="MarkHung" creationdate="20171223T085859Z">
@@ -2284,6 +2292,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T050849Z" creationid="Jeff Huang" creationdate="20171111T130811Z">
         <seg>你可以回應哪些反面論述？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &lt;f0&gt;an &lt;/f0&gt;outline using a single paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T140745Z" creationid="MarkHung" creationdate="20171225T140745Z">
+        <seg>使用&lt;f0&gt;一種&lt;/f0&gt;段落樣式建立大綱。</seg>
       </tuv>
     </tu>
     <tu>
