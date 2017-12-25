@@ -3350,6 +3350,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>「自動」是給CJK用的，原本的功能是日文縮排一格，後來改成中文縮排2格。最好的建議是，不要用這個功能，因為ODF中對自動如何判別及縮排並沒有標準化。</note>
+      <tuv lang="EN">
+        <seg>Instead, create a &lt;f1&gt;First Line Indent &lt;/f1&gt;and check the &lt;f2&gt;Automatic&lt;/f2&gt; box on the &lt;f3&gt;Indents and Spacing&lt;/f3&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T115206Z" creationid="MarkHung" creationdate="20171225T115206Z">
+        <seg>設定&lt;f3&gt;縮排與間距&lt;/f3&gt;中的&lt;f1&gt;首行縮排&lt;/f1&gt;並勾選&lt;f2&gt;自動&lt;/f2&gt;選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Instead, headings are available for use &lt;f1&gt;the moment that&lt;/f1&gt; you set the styles.</seg>
       </tuv>
@@ -4139,6 +4148,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T100215Z" creationid="MarkHung" creationdate="20171223T100215Z">
         <seg>否則，請考慮使用定位點的需求，或以其他方案取代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, you will have to set tabs separately for each paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T043044Z" creationid="MarkHung" creationdate="20171225T043044Z">
+        <seg>否則，你須要分別在不同的段落樣式中設定定位點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5523,6 +5540,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T062404Z" creationid="Jeff Huang" creationdate="20171214T062404Z">
         <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;them&lt;/f0&gt; to indicate the start of new paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T043113Z" creationid="MarkHung" creationdate="20171225T043113Z">
+        <seg>用他們來代表新段落的開始</seg>
       </tuv>
     </tu>
     <tu>
