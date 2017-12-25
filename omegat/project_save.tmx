@@ -232,8 +232,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Besides&lt;/f0&gt;, &lt;f1&gt;possibly, they may &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;have more practical uses than they appear to do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090039Z" creationid="MarkHung" creationdate="20171223T085859Z">
-        <seg>&lt;f0&gt;此外&lt;/f0&gt;, &lt;f1&gt;這類功能可能 &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;有比想像中更實用的功能。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024422Z" creationid="MarkHung" creationdate="20171223T085859Z">
+        <seg>&lt;f0&gt;此外&lt;/f0&gt;，&lt;f1&gt;這類功能可能&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;有比想像更實際的用途。</seg>
       </tuv>
     </tu>
     <tu>
@@ -769,8 +769,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; diagram sets all sides together, offering pre-defined arrangements at a single click.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091544Z" creationid="MarkHung" creationdate="20171223T091454Z">
-        <seg>&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預先設置集&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;圖示可以單鍵選用預先設定好的線條安排，一次設定全部的邊界。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024501Z" creationid="MarkHung" creationdate="20171223T091454Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預先設置集&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;圖示可以單鍵選用預先設定好的線條安排，一次設定全部的邊界。</seg>
       </tuv>
     </tu>
     <tu>
@@ -881,8 +881,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;When the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Synchronize&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; check box is selected, you can fill in values for the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Left&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Right&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; sides or the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Top&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Bottom&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; sides at the same time.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T020723Z" creationid="MarkHung" creationdate="20171225T020650Z">
-        <seg>&lt;f0&gt;當 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;同步&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;勾選時，你可以同時填入&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;左&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;右&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;邊或 &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;上&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;下&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;邊的內容。&lt;/f15&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024522Z" creationid="MarkHung" creationdate="20171225T020650Z">
+        <seg>&lt;f0&gt;當&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;同步&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;勾選時，你可以同時填入&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;左&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;右&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;邊或 &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;上&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;下&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;邊的內容。&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1793,8 +1793,8 @@
       <tuv lang="EN">
         <seg>Below: Set to 5 points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094219Z" creationid="MarkHung" creationdate="20171223T094219Z">
-        <seg>下: 設定為5點。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024545Z" creationid="MarkHung" creationdate="20171223T094219Z">
+        <seg>下：設定為5點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2697,8 +2697,8 @@
       <tuv lang="EN">
         <seg>However, others &lt;f0&gt;you should consider carefully before using.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T082850Z" creationid="MarkHung" creationdate="20171223T082850Z">
-        <seg>然而，其他的功能 &lt;f0&gt;使用前則應該小心的考慮。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024331Z" creationid="MarkHung" creationdate="20171223T082850Z">
+        <seg>然而，其他的功能&lt;f0&gt;使用前則應該小心的考慮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2841,8 +2841,8 @@
       <tuv lang="EN">
         <seg>If that happens and you do not need borders, leave the&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Line Arrangement&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; blank, and select&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Line &gt; Style &gt; None.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T021120Z" creationid="MarkHung" creationdate="20171225T021120Z">
-        <seg>一旦發生而你並不需要邊框時，將&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條配置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; 設定為空白，並選擇&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; 線條 &gt; 樣式 &gt; 無。&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024554Z" creationid="MarkHung" creationdate="20171225T021120Z">
+        <seg>一旦發生而你並不需要邊框時，將&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條配置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;設定為空白，並選擇&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; 線條 &gt; 樣式 &gt; 無。&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4289,8 +4289,8 @@
       <tuv lang="EN">
         <seg>Similar&lt;f0&gt; Borders&lt;/f0&gt; tabs are found throughout LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090747Z" creationid="MarkHung" creationdate="20171223T090747Z">
-        <seg>LibreOffice中類似的&lt;f0&gt; 邊框&lt;/f0&gt; 頁籤。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024435Z" creationid="MarkHung" creationdate="20171223T090747Z">
+        <seg>LibreOffice中類似的&lt;f0&gt;邊框&lt;/f0&gt;頁籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4881,8 +4881,8 @@
       <tuv lang="EN">
         <seg>The most &lt;f1&gt;obvious&lt;/f1&gt; &lt;f2&gt;uses &lt;/f2&gt;are to create a blank space to put an answer on a quiz, or to indicate a side bar in a newsletter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T101316Z" creationid="MarkHung" creationdate="20171223T101316Z">
-        <seg>最&lt;f1&gt;明顯的&lt;/f1&gt; &lt;f2&gt;用途&lt;/f2&gt;是製作回答試題答案的空白或新聞報紙的側邊。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024621Z" creationid="MarkHung" creationdate="20171223T101316Z">
+        <seg>最&lt;f1&gt;明顯的&lt;/f1&gt;&lt;f2&gt;用途&lt;/f2&gt;是製作回答試題答案的空白或新聞報紙的側邊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5105,8 +5105,8 @@
       <tuv lang="EN">
         <seg>This is a temptation that they should &lt;f4&gt;almost always&lt;/f4&gt; avoid.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T095202Z" creationid="MarkHung" creationdate="20171223T094934Z">
-        <seg>這樣的誘惑&lt;f4&gt;幾乎應該總是&lt;/f4&gt; 被避免。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024610Z" creationid="MarkHung" creationdate="20171223T094934Z">
+        <seg>這樣的誘惑&lt;f4&gt;幾乎應該總是&lt;/f4&gt;被避免。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5265,8 +5265,8 @@
       <tuv lang="EN">
         <seg>Under&lt;f0&gt; Line Arrangement,&lt;/f0&gt; use either the &lt;f1&gt;Default&lt;/f1&gt; or &lt;f2&gt;User-defined&lt;/f2&gt; diagrams to &lt;f3&gt;choose&lt;/f3&gt; on which sides you want a border.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091507Z" creationid="MarkHung" creationdate="20171223T091000Z">
-        <seg>在&lt;f0&gt;線條安排&lt;/f0&gt;，使用&lt;f1&gt;預先設置集&lt;/f1&gt;或&lt;f2&gt;使用者定義&lt;/f2&gt;圖示 &lt;f3&gt;選取&lt;/f3&gt;繪製框線的邊界。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024443Z" creationid="MarkHung" creationdate="20171223T091000Z">
+        <seg>在&lt;f0&gt;線條安排&lt;/f0&gt;，使用&lt;f1&gt;預先設置集&lt;/f1&gt;或&lt;f2&gt;使用者定義&lt;/f2&gt;圖示&lt;f3&gt;選取&lt;/f3&gt;繪製框線的邊界。</seg>
       </tuv>
     </tu>
     <tu>
