@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;B&lt;f1&gt;eing included in the outline styles means that a paragraph using that style is listed in the &lt;/f1&gt;Navigator, and used automatically in features like tables of contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T141737Z" creationid="MarkHung" creationdate="20171225T141737Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;被納入大綱樣式代表使用這個樣式的段落被列在&lt;/f1&gt;「助手」中，並且在表格功能中自動使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Despite having different version numbers, LibreOffice and Apache OpenOffice are extremely similar in most features.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T164706Z" creationid="zerng07" creationdate="20170817T180726Z">
