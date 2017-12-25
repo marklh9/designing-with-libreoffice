@@ -3624,6 +3624,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make the tab positions multiples of the &lt;f0&gt;line spacing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T115248Z" creationid="MarkHung" creationdate="20171225T115248Z">
+        <seg>以&lt;f0&gt;行距&lt;/f0&gt;的整數倍設定定位點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Making the final check</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083954Z" creationid="Jeff Huang" creationdate="20171214T063640Z">
@@ -5548,6 +5556,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T043113Z" creationid="MarkHung" creationdate="20171225T043113Z">
         <seg>用他們來代表新段落的開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;them&lt;/f0&gt; to position characters in a text frame, such as a header or footer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T115649Z" creationid="MarkHung" creationdate="20171225T115649Z">
+        <seg>用&lt;f0&gt;定位點&lt;/f0&gt;定位文字框(如頁首或頁尾)中的字元。</seg>
       </tuv>
     </tu>
     <tu>
