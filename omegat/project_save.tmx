@@ -1135,6 +1135,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;The &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Drop Caps&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab for a paragraph style &lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;automates the process of creating a text frame and setting the text flow around it.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T120515Z" creationid="MarkHung" creationdate="20171225T120515Z">
+        <seg>段落樣式的&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「字首放大」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;頁籤&lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;自動化建立字框並且設定文字流向環繞的流程。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;The rest is mostly about features that are not quite styles, or that are dependent on styles for full efficiency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163113Z" creationid="zerng07" creationdate="20170817T162745Z">
@@ -2355,6 +2363,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T074003Z" creationid="Jeff Huang" creationdate="20171220T074003Z">
         <seg>繪製物件樣式與圖表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop cap&lt;f0&gt;ital&lt;/f0&gt;s are enlarged letters that mark the start of a new chapter or section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T120351Z" creationid="MarkHung" creationdate="20171225T120351Z">
+        <seg>字首放大(Drop capital)用於標示新章節或區段開始時放大的字母。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4476,6 +4492,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T014902Z" creationid="MarkHung" creationdate="20171225T014902Z">
         <seg>設定透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up drop capitals</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T120138Z" creationid="MarkHung" creationdate="20171225T120138Z">
+        <seg>設定首字放大。</seg>
       </tuv>
     </tu>
     <tu>
