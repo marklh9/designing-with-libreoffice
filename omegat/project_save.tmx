@@ -1879,6 +1879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before creating drop caps, consider what other indicators of a new chapter you have in your design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T121212Z" creationid="MarkHung" creationdate="20171225T121212Z">
+        <seg>在建立首字放大之前，考慮你的設計中其他起始新章節的指標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before you publish, set your zoom to 75% &lt;f0&gt;or select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Print Preview&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;and take one last high-level look at the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091558Z" creationid="Jeff Huang" creationdate="20171214T064158Z">
@@ -4274,8 +4282,8 @@
       <tuv lang="EN">
         <seg>Placing the entire first line in a different font weight is a very common layout choice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T020129Z" creationid="MarkHung" creationdate="20171225T015725Z">
-        <seg>第一行設定不同的字重視非常常見的排版選擇。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T121243Z" creationid="MarkHung" creationdate="20171225T015725Z">
+        <seg>第一行設定不同的字重是非常常見的排版選擇。</seg>
       </tuv>
     </tu>
     <tu>
