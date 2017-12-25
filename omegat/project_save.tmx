@@ -4399,6 +4399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set them in the &lt;f0&gt;Default&lt;/f0&gt; paragraph styles, or at the very least, as high up the hierarchical tree as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T043014Z" creationid="MarkHung" creationdate="20171225T043014Z">
+        <seg>在&lt;f0&gt;預設&lt;/f0&gt;段落樣式中設定定位點，或者至少在樣式階層樹中較高的位置設定定位點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting borders</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090304Z" creationid="MarkHung" creationdate="20171223T090304Z">
