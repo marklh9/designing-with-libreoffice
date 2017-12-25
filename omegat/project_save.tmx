@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;ost of the time, you have more options and more control if you use a frame instead, or perhaps apply the background to a page style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T014717Z" creationid="MarkHung" creationdate="20171225T014717Z">
+        <seg>&lt;f0&gt;大多時候&lt;/f0&gt;，使用訊框或套用頁面樣式的背景色提供更多選擇及控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;yth about styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063553Z" creationid="zerng07" creationdate="20171212T062542Z">
@@ -4099,6 +4107,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090304Z" creationid="MarkHung" creationdate="20171223T090304Z">
         <seg>邊框設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting transparency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T014902Z" creationid="MarkHung" creationdate="20171225T014902Z">
+        <seg>設定透明度</seg>
       </tuv>
     </tu>
     <tu>
