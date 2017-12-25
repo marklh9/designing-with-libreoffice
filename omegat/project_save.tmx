@@ -3474,8 +3474,8 @@
       <tuv lang="EN">
         <seg>It can be the same font as for body text – perhaps in a different weight – a &lt;f0&gt;decorative&lt;/f0&gt; font, or even a &lt;f1&gt;character from a &lt;/f1&gt;dingbat set.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122329Z" creationid="MarkHung" creationdate="20171225T122329Z">
-        <seg>可以和內文的某個字型相同，也許有不同的字重，一個&lt;f0&gt;裝飾性的字型&lt;/f0&gt;，甚至一個&lt;f1&gt;符號字型中的圖形字元&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122534Z" creationid="MarkHung" creationdate="20171225T122329Z">
+        <seg>可以使用和內文相同的某個字型(也許使用不同的字重)，使用一個&lt;f0&gt;裝飾性的字型&lt;/f0&gt;，甚至使用一個&lt;f1&gt;Dingbat字型中的圖形字元&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5725,6 +5725,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114209Z" creationid="zerng07" creationdate="20171219T114158Z">
         <seg>樣式使用時機：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Drop Caps &lt;/f0&gt;character style to define the font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122607Z" creationid="MarkHung" creationdate="20171225T122607Z">
+        <seg>使用&lt;f0&gt;字首放大&lt;/f0&gt;字元樣式來定義字型。</seg>
       </tuv>
     </tu>
     <tu>
