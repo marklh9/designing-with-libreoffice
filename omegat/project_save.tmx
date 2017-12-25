@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Centered:&lt;/f0&gt; Places the center of the text at the tab position, extending it on both the left and the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T041445Z" creationid="MarkHung" creationdate="20171225T041445Z">
+        <seg>&lt;f0&gt;置中:&lt;/f0&gt;將文字的中心對齊定位點，向左右延伸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Check, too,&lt;/f0&gt; that formatting such as the structure of captions and the space above and below objects is consistent throughout.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073007Z" creationid="Jeff Huang" creationdate="20171213T023950Z">
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133202Z" creationid="Franklin Weng" creationdate="20171213T133202Z">
         <seg>&lt;f0&gt;準備好&lt;/f0&gt;&lt;f1&gt;使用&lt;/f1&gt;範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Right:&lt;/f0&gt; Places the right edge of the text at the tab, extending the text to the left.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T041249Z" creationid="MarkHung" creationdate="20171225T041249Z">
+        <seg>&lt;f0&gt;右：&lt;/f0&gt;將文字的右邊對齊定位點，讓文字向左延伸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3847,6 +3863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often, this type can be replaced by setting the general alignment of the line to &lt;f1&gt;Centered.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T041634Z" creationid="MarkHung" creationdate="20171225T041634Z">
+        <seg>這種類型通常可以用更一般性的段落對齊設定&lt;f1&gt;「置中對齊」&lt;/f1&gt;取代</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often, those key elements should be headings, because they are useful in many other ways.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T065934Z" creationid="Jeff Huang" creationdate="20171123T080111Z">
@@ -5003,6 +5027,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024621Z" creationid="MarkHung" creationdate="20171223T101316Z">
         <seg>最&lt;f1&gt;明顯的&lt;/f1&gt;&lt;f2&gt;用途&lt;/f2&gt;是製作回答試題答案的空白或新聞報紙的側邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most common use of this type is to position a column of text against the right margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T041404Z" creationid="MarkHung" creationdate="20171225T041404Z">
+        <seg>這種類型最常見的用途是對齊右邊界定位欄項。</seg>
       </tuv>
     </tu>
     <tu>
