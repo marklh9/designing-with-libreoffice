@@ -4393,8 +4393,8 @@
       <tuv lang="EN">
         <seg>Set the &lt;f0&gt;height of your drop cap in terms of the number of lines.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T015949Z" creationid="MarkHung" creationdate="20171225T015949Z">
-        <seg>設定&lt;f0&gt;height of your drop cap in terms of the number of lines.&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T042708Z" creationid="MarkHung" creationdate="20171225T015949Z">
+        <seg>以行數設定&lt;f0&gt;首字放大的高度&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5731,6 +5731,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100722Z" creationid="Franklin Weng" creationdate="20171212T100722Z">
         <seg>使用範本的時機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using tabs, do &lt;f0&gt;not&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T042548Z" creationid="MarkHung" creationdate="20171225T042548Z">
+        <seg>使用定位點時，&lt;f0&gt;不要&lt;/f0&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using tabs, do:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T042526Z" creationid="MarkHung" creationdate="20171225T042526Z">
+        <seg>使用定位點時，這樣做：</seg>
       </tuv>
     </tu>
     <tu>
