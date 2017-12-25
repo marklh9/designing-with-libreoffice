@@ -584,8 +584,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;O&lt;/f0&gt;ften, &lt;f1&gt;however, borders&lt;/f1&gt; are just another bit of unnecessary clutter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T021306Z" creationid="MarkHung" creationdate="20171225T021306Z">
-        <seg>&lt;f0&gt;然而，經常來說&lt;/f0&gt;，&lt;f1&gt;邊框&lt;/f1&gt;只是另一個不必要的廢物。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T021326Z" creationid="MarkHung" creationdate="20171225T021306Z">
+        <seg>&lt;f0&gt;然而，經常來說&lt;/f0&gt;，&lt;f1&gt;邊框&lt;/f1&gt;只是另一個多餘的雜物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2243,6 +2243,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090520Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
         <seg>你可以列印出一份紙本，或是用「&lt;f0&gt;檔案 → 列印預覽」。&lt;/f0&gt; &lt;f1&gt;當然，最好的狀況是兩個方法都做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enough empty space &lt;f2&gt;may &lt;/f2&gt;achieve the same purpose as a border while looking less &lt;f3&gt;constricted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T021428Z" creationid="MarkHung" creationdate="20171225T021428Z">
+        <seg>充足的空間，&lt;f2&gt;也可以&lt;/f2&gt;達到與邊框相同的效果，且看起來較不 &lt;f3&gt;侷限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4363,6 +4371,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T052830Z" creationid="Jeff Huang" creationdate="20171111T134449Z">
         <seg>有一些作家相信「作家最好的朋友就是字紙簍」，並刪去任何他們覺得太過得意的部份，因為這讓他們無法客觀地看待文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes a frame may be a better choice because it has more options.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T021530Z" creationid="MarkHung" creationdate="20171225T021530Z">
+        <seg>因為訊框有更多選項可以使用，有時是更好的選擇。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
