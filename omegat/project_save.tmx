@@ -479,6 +479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Whole word&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Number of Character&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields substitute adequately for it.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T135754Z" creationid="MarkHung" creationdate="20171225T135754Z">
+        <seg>&lt;f0&gt;然而，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「整個單字」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「字元數」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;兩個欄位應該足以取代這個功能。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, they can &lt;/f0&gt;also store structure, either in the form of outlines, or &lt;f1&gt;of&lt;/f1&gt; fields that automatically fill in standard information or indicate with placeholders what kind of information should be added.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100339Z" creationid="Franklin Weng" creationdate="20171212T100339Z">
@@ -1500,6 +1508,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124433Z" creationid="Franklin Weng" creationdate="20171218T124433Z">
         <seg>一般的檔案只需要儲存就可以了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A selection of drop capitals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T135929Z" creationid="MarkHung" creationdate="20171225T135929Z">
+        <seg>首字放大選例</seg>
       </tuv>
     </tu>
     <tu>
@@ -5246,6 +5262,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T050503Z" creationid="Jeff Huang" creationdate="20171111T130330Z">
         <seg>本章內的標題可作為參考用的步驟檢查表。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last &lt;f0&gt;sample uses a character style to place the first line in italics.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T135959Z" creationid="MarkHung" creationdate="20171225T135959Z">
+        <seg>最後&lt;f0&gt;的範例使用字元樣式將第一行設定為斜體。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
