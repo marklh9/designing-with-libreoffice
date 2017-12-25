@@ -2215,6 +2215,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the font for the drop caps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122214Z" creationid="MarkHung" creationdate="20171225T122214Z">
+        <seg>選擇首字放大的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on these rectangles to zoom in on the available templates and select from them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123130Z" creationid="Franklin Weng" creationdate="20171213T123130Z">
@@ -2251,6 +2259,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T143127Z" creationid="zerng07" creationdate="20170817T142039Z">
         <seg>專為Linux作業系統上之&lt;f0&gt;KDE&lt;/f0&gt;桌面環境所製作的字型，Oxygen是現代幾何風字型，形狀簡潔，但極為易讀，看起來很舒服。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating drop caps:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122154Z" creationid="MarkHung" creationdate="20171225T122154Z">
+        <seg>建立首字放大：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3452,6 +3468,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163930Z" creationid="zerng07" creationdate="20170817T163930Z">
         <seg>本書假定&lt;/f4&gt;讀者已經熟悉LibreOffice或其他辦公套裝軟體&lt;f5&gt;，又或者至少&lt;/f5&gt;能自行探索選單項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be the same font as for body text – perhaps in a different weight – a &lt;f0&gt;decorative&lt;/f0&gt; font, or even a &lt;f1&gt;character from a &lt;/f1&gt;dingbat set.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122329Z" creationid="MarkHung" creationdate="20171225T122329Z">
+        <seg>可以和內文的某個字型相同，也許有不同的字重，一個&lt;f0&gt;裝飾性的字型&lt;/f0&gt;，甚至一個&lt;f1&gt;符號字型中的圖形字元&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4929,6 +4953,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Drop Caps&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122145Z" creationid="MarkHung" creationdate="20171225T122145Z">
+        <seg>&lt;f0&gt;「首字放大」&lt;/f0&gt;頁籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Transparency&lt;/f0&gt; tab works with the &lt;f1&gt;Area&lt;/f1&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T034116Z" creationid="MarkHung" creationdate="20171225T034116Z">
@@ -5557,6 +5589,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091018Z" creationid="MarkHung" creationdate="20171223T090804Z">
         <seg>設定邊框的方式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set up drop caps:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122205Z" creationid="MarkHung" creationdate="20171225T122205Z">
+        <seg>要設定首字放大：</seg>
       </tuv>
     </tu>
     <tu>
