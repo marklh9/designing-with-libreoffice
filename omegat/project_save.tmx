@@ -5755,8 +5755,8 @@
       <tuv lang="EN">
         <seg>Use fill characters &lt;f0&gt;in &lt;/f0&gt;the blank space&lt;f1&gt;s&lt;/f1&gt; between tab &lt;f2&gt;positions&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T120006Z" creationid="MarkHung" creationdate="20171225T120006Z">
-        <seg>在定位點之間的空白使用填入字元。&lt;/f2&gt;.</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T125516Z" creationid="MarkHung" creationdate="20171225T120006Z">
+        <seg>在定位點之間的空白使用填入字元。</seg>
       </tuv>
     </tu>
     <tu>
