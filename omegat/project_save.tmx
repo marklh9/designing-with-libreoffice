@@ -855,6 +855,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Synchronize&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; check box is selected, you can fill in values for the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Left&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Right&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; sides or the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Top&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Bottom&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; sides at the same time.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T020650Z" creationid="MarkHung" creationdate="20171225T020650Z">
+        <seg>&lt;f0&gt;當 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;同步&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;勾選時，你可以同時填入&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;左&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;右&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;邊或 &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;上&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;下&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;邊。&lt;/f15&gt;&lt;f3&gt;的內容&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When&lt;/f0&gt; documents have been added to a master document or pasted together, the number&lt;f1&gt;ing of the first numbered&lt;/f1&gt; list in each document &lt;f2&gt;may need to be&lt;/f2&gt; restart&lt;f3&gt;ed manually&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090832Z" creationid="Jeff Huang" creationdate="20171213T023454Z">
@@ -1355,6 +1363,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145827Z" creationid="zerng07" creationdate="20170822T145827Z">
         <seg>關於作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Above: &lt;f0&gt;Borders &gt; Space to Contents&lt;/f0&gt; set to &lt;f1&gt;0&lt;/f1&gt; points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T020409Z" creationid="MarkHung" creationdate="20171225T020409Z">
+        <seg>下: &lt;f0&gt;邊框 &gt; 離內容的邊距 &lt;/f0&gt; 設為 &lt;f1&gt;0&lt;/f1&gt;點。</seg>
       </tuv>
     </tu>
     <tu>
