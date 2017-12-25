@@ -1719,6 +1719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backgrounds or areas are available in paragraph styles, and are basically the same &lt;t0/&gt;feature as highlighting, except that highlighting is available only as a color, while a background or area can also be a gradient, hatching, or bitmap.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T022435Z" creationid="MarkHung" creationdate="20171225T022435Z">
+        <seg>背景或區塊在段落樣式中，基本上與&lt;t0/&gt;色彩標明是相同的功能，除了色彩標明僅允許顏色，而背景或區塊可以是漸層、樣式或位元圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Barry Schwartz is one of the outstanding designers of free-licensed body text fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T105322Z" creationid="zerng07" creationdate="20170817T104314Z">
@@ -2529,8 +2537,16 @@
       <tuv lang="EN">
         <seg>Highlighting and setting backgrounds</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T021942Z" creationid="MarkHung" creationdate="20171225T021942Z">
-        <seg>強調及設定背景</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T022209Z" creationid="MarkHung" creationdate="20171225T021942Z">
+        <seg>色彩標明及設定背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlighting is available in character styles, and most useful for emphasizing passages in informal documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T022302Z" creationid="MarkHung" creationdate="20171225T022204Z">
+        <seg>色彩標明可以在字元樣式中找到，在非正式文件中強調段落最有用。</seg>
       </tuv>
     </tu>
     <tu>
