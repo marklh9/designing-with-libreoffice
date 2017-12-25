@@ -480,8 +480,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you want a shadow as part of the border, select its&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Position, Distance&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (from the border), and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Color.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T101010Z" creationid="MarkHung" creationdate="20171223T101010Z">
-        <seg>&lt;f0&gt;如果你要邊框陰影，選擇陰影樣式的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; 位置、距離&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (離內容的間距)及&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;顏色。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024938Z" creationid="MarkHung" creationdate="20171223T101010Z">
+        <seg>&lt;f0&gt;如果你要邊框陰影，選擇陰影樣式的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;位置、距離&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (離內容的間距)及&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;顏色。</seg>
       </tuv>
     </tu>
     <tu>
