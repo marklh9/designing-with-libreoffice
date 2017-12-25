@@ -304,8 +304,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;D&lt;/f0&gt;rop caps are more common in fiction than non-fiction, &lt;f1&gt;and in magazines than in an academic essay.&lt;/f1&gt; &lt;f2&gt;They create an informality that is more at home in a novel than in most types of non-fiction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T120818Z" creationid="MarkHung" creationdate="20171225T120818Z">
-        <seg>&lt;f0&gt;字首放大&lt;/f0&gt;較於非小說，多用於小說，&lt;f1&gt;較於學術論文，多用於雜誌。&lt;/f1&gt; &lt;f2&gt;這種風格產生多用於家中小說而不用在非小說的不正式的感。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T120835Z" creationid="MarkHung" creationdate="20171225T120818Z">
+        <seg>&lt;f0&gt;字首放大&lt;/f0&gt;較於非小說，多用於小說，&lt;f1&gt;較於學術論文，多用於雜誌。&lt;/f1&gt; &lt;f2&gt;這種風格產生多用於家中小說而不用在非小說的不正式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5092,6 +5092,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T144222Z" creationid="zerng07" creationdate="20171219T144222Z">
         <seg>文件的格式設定非常簡單、平常，&lt;f0&gt;就像一篇作文。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The exception are the highly decorated capitals found in illuminated manuscripts from the Middle Ages.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T121119Z" creationid="MarkHung" creationdate="20171225T121119Z">
+        <seg>例外是中世紀彩繪古籍中高度裝飾的大寫字母。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
