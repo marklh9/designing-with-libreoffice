@@ -857,8 +857,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;When the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Synchronize&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; check box is selected, you can fill in values for the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Left&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Right&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; sides or the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Top&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Bottom&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; sides at the same time.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T020650Z" creationid="MarkHung" creationdate="20171225T020650Z">
-        <seg>&lt;f0&gt;當 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;同步&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;勾選時，你可以同時填入&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;左&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;右&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;邊或 &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;上&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;下&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;邊。&lt;/f15&gt;&lt;f3&gt;的內容&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T020723Z" creationid="MarkHung" creationdate="20171225T020650Z">
+        <seg>&lt;f0&gt;當 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;同步&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;勾選時，你可以同時填入&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;左&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;右&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;邊或 &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;上&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;下&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;邊的內容。&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2771,6 +2771,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100648Z" creationid="Franklin Weng" creationdate="20171212T100648Z">
         <seg>如果是這樣的話，免驚！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If that happens and you do not need borders, leave the&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Line Arrangement&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; blank, and select&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Line &gt; Style &gt; None.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T021120Z" creationid="MarkHung" creationdate="20171225T021120Z">
+        <seg>一旦發生而你並不需要邊框時，將&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條配置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; 設定為空白，並選擇&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; 線條 &gt; 樣式 &gt; 無。&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
