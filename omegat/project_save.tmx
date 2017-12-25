@@ -2711,6 +2711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here, the controls to define a gradient are shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T132641Z" creationid="MarkHung" creationdate="20171225T132641Z">
+        <seg>這裡顯示用來定義漸層的控制項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlight the text of the header.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111222Z" creationid="zerng07" creationdate="20171219T111222Z">
