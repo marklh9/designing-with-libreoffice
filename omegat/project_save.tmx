@@ -312,8 +312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Decimal: &lt;/f0&gt;Places the decimal at the tab position, &lt;f1&gt;and whole numbers and text to its left&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T041731Z" creationid="MarkHung" creationdate="20171225T041731Z">
-        <seg>&lt;f0&gt;小數點: &lt;/f0&gt;將小數點對齊定位點，&lt;f1&gt;，整數或文字的部分置於定位點左側。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T132148Z" creationid="MarkHung" creationdate="20171225T041731Z">
+        <seg>&lt;f0&gt;小數點: &lt;/f0&gt;將小數點對齊定位點&lt;f1&gt;，整數或文字的部分置於定位點左側。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5211,8 +5211,8 @@
       <tuv lang="EN">
         <seg>The four types of tab positions &lt;f0&gt;differ in where text appears in relation to the tab stop in the ruler.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T042055Z" creationid="MarkHung" creationdate="20171225T042055Z">
-        <seg>四種定位點&lt;f0&gt;在尺規上於定位點不同的相對位置標示文字。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T132342Z" creationid="MarkHung" creationdate="20171225T042055Z">
+        <seg>四種定位點&lt;f0&gt;的差異在於文字相對於定位點在尺規上的位置。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
