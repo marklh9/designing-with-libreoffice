@@ -4463,6 +4463,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>看不太懂什麼Magic number?</note>
+      <tuv lang="EN">
+        <seg>Set the &lt;f0&gt;Space to text.&lt;/f0&gt; Unless the drop cap is extremely large, the magic number is probably too much, so try half of it &lt;f1&gt;first&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T121841Z" creationid="MarkHung" creationdate="20171225T121841Z">
+        <seg>設定&lt;f0&gt;「距離文字間隔」&lt;/f0&gt;。除非放大的首字非常的大，魔術數字可能太大了，首先嘗試將之減半。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Set the &lt;f0&gt;height of your drop cap in terms of the number of lines.&lt;/f0&gt;</seg>
       </tuv>
