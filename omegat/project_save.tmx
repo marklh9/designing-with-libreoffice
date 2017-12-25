@@ -3231,6 +3231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most cases, this will be the most commonly used type, and often the only one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T041211Z" creationid="MarkHung" creationdate="20171225T041211Z">
+        <seg>在多數的情形，這是最常使用的類型，經常也是唯一被使用的類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In most circumstances, choose the thinnest, plainest style possible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091815Z" creationid="MarkHung" creationdate="20171223T091815Z">
