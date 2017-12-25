@@ -4111,6 +4111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several character styles, each with a different color background, might be useful &lt;f2&gt;for highlighting when you are taking notes, or for a brochure, but the majority of text-heavy documents use a plain white background.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T014503Z" creationid="MarkHung" creationdate="20171225T014503Z">
+        <seg>使用幾種背景顏色不同的字元樣式，可能有助&lt;f2&gt;寫筆記或者在傳單中強調重點，但多數以文字為主的文件採用單純的白色背景。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shadows were so over-used&lt;/f0&gt; in the mid-1990s that &lt;f1&gt;today they can look excessive and old-fashioned.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T093826Z" creationid="MarkHung" creationdate="20171223T093826Z">
