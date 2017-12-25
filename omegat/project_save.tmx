@@ -777,8 +777,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; diagram sets all sides together, offering pre-defined arrangements at a single click.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024501Z" creationid="MarkHung" creationdate="20171223T091454Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預先設置集&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;圖示可以單鍵選用預先設定好的線條安排，一次設定全部的邊界。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T032513Z" creationid="MarkHung" creationdate="20171223T091454Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預先設置集&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;圖示可以單鍵選用預先設定好的線條安排，一次設定全部的邊框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3441,8 +3441,8 @@
       <tuv lang="EN">
         <seg>Like &lt;f0&gt;b&lt;/f0&gt;orders, &lt;f1&gt;b&lt;/f1&gt;ackgrounds have limited use in character and paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024649Z" creationid="MarkHung" creationdate="20171225T014101Z">
-        <seg>如同&lt;f0&gt;邊界&lt;/f0&gt;，&lt;f1&gt;背景&lt;/f1&gt;在字元及段落樣式中用處有限。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T032602Z" creationid="MarkHung" creationdate="20171225T014101Z">
+        <seg>如同&lt;f0&gt;邊框&lt;/f0&gt;，&lt;f1&gt;背景&lt;/f1&gt;在字元及段落樣式中用處有限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4959,6 +4959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tab adds transparency when a selection is made on the &lt;f0&gt;Background/Area&lt;/f0&gt; &lt;f1&gt;tab.&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;0% &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;is no transparency, 100% complete transparency.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T032859Z" creationid="MarkHung" creationdate="20171225T032859Z">
+        <seg>在&lt;f0&gt;背景/區塊&lt;/f0&gt; &lt;f1&gt;頁籤&lt;/f1&gt;選用設定後，將加入「透明」頁籤&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;0% &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;是不透明，100%是完全透明。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The truth is, nothing could be more wrong.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T190118Z" creationid="zerng07" creationdate="20170818T034023Z">
@@ -5617,8 +5625,8 @@
       <tuv lang="EN">
         <seg>With&lt;/f3&gt; the &lt;f4&gt;User-defined &lt;/f4&gt;diagram, you can set each side separately.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091631Z" creationid="MarkHung" creationdate="20171223T091631Z">
-        <seg>使用&lt;/f3&gt;&lt;f4&gt;使用者定義&lt;/f4&gt;圖示，可以個別設定每個邊界。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T032545Z" creationid="MarkHung" creationdate="20171223T091631Z">
+        <seg>使用&lt;/f3&gt;&lt;f4&gt;使用者定義&lt;/f4&gt;圖示，可以個別設定每邊的邊框。</seg>
       </tuv>
     </tu>
     <tu>
