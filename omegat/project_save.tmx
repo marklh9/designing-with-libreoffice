@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Left:&lt;/f0&gt; Places the left edge of the text column at the tab position, extending the text to the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T041141Z" creationid="MarkHung" creationdate="20171225T041141Z">
+        <seg>&lt;f0&gt;左：&lt;/f0&gt;將文字的左邊對齊定位點，將文字向右延伸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice does not display template directories directly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125449Z" creationid="Franklin Weng" creationdate="20171212T125449Z">
@@ -5067,6 +5075,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T013958Z" creationid="MarkHung" creationdate="20171225T013950Z">
         <seg>兩種列印模式並不一定相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The types of tabs are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T035251Z" creationid="MarkHung" creationdate="20171225T035251Z">
+        <seg>定位點的種類有：</seg>
       </tuv>
     </tu>
     <tu>
