@@ -1577,8 +1577,8 @@
       <tuv lang="EN">
         <seg>All LibreOffice’s applications include an identical &lt;f0&gt;Borders&lt;/f0&gt; tab on at least one of their styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090518Z" creationid="MarkHung" creationdate="20171223T090518Z">
-        <seg>所有LibreOffice模組在樣式設定都包含相同的&lt;f0&gt;邊框&lt;/f0&gt;頁籤。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T131249Z" creationid="MarkHung" creationdate="20171223T090518Z">
+        <seg>所有LibreOffice模組在樣式設定都包含相同的&lt;f0&gt;「邊框」&lt;/f0&gt;頁籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5851,8 +5851,8 @@
       <tuv lang="EN">
         <seg>Using tabs effectively</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T095240Z" creationid="MarkHung" creationdate="20171223T095220Z">
-        <seg>有效使用定位點(Tab)</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T131141Z" creationid="MarkHung" creationdate="20171223T095220Z">
+        <seg>有效使用定位點</seg>
       </tuv>
     </tu>
     <tu>
