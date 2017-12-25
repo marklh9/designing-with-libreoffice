@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;On the Drop Caps tab of the paragraph style, u&lt;/f0&gt;nder Settings, select Display drop caps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122948Z" creationid="MarkHung" creationdate="20171225T122948Z">
+        <seg>&lt;f0&gt;在段落樣式的「首字放大」頁籤中，在&lt;/f0&gt;「設定」選擇「顯示首字放大」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Only one template can be applied at one time to a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114907Z" creationid="Franklin Weng" creationdate="20171212T114907Z">
@@ -2243,6 +2251,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T050849Z" creationid="Jeff Huang" creationdate="20171111T130811Z">
         <seg>你可以回應哪些反面論述？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a &lt;f0&gt;Drop Caps&lt;/f0&gt; paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122631Z" creationid="MarkHung" creationdate="20171225T122631Z">
+        <seg>建立一個&lt;f0&gt;「字首放大」&lt;/f0&gt;的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3828,6 +3844,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171224T060158Z" creationid="MarkHung" creationdate="20171224T060158Z">
         <seg>多數的前景色在多色的背景中遺失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most likely, it will be the child of &lt;f1&gt;Text Body&lt;/f1&gt;, differing only in having settings for &lt;f2&gt;Drop Caps.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122726Z" creationid="MarkHung" creationdate="20171225T122726Z">
+        <seg>最可能的是，它可以是&lt;f1&gt;內文&lt;/f1&gt;的子樣式，只是設定了&lt;f2&gt;字首放大。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
