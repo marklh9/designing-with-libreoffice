@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Add a paragraph style to the default outline styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T141031Z" creationid="MarkHung" creationdate="20171225T141031Z">
+        <seg>&lt;f0&gt;替預設大綱樣式加入段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Although often more elaborate than strictly necessary, these wizards can give you a starting point to studying templates.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134357Z" creationid="Franklin Weng" creationdate="20171215T125929Z">
