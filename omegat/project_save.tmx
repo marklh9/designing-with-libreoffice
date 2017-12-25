@@ -304,8 +304,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;D&lt;/f0&gt;rop caps are more common in fiction than non-fiction, &lt;f1&gt;and in magazines than in an academic essay.&lt;/f1&gt; &lt;f2&gt;They create an informality that is more at home in a novel than in most types of non-fiction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T120835Z" creationid="MarkHung" creationdate="20171225T120818Z">
-        <seg>&lt;f0&gt;字首放大&lt;/f0&gt;較於非小說，多用於小說，&lt;f1&gt;較於學術論文，多用於雜誌。&lt;/f1&gt; &lt;f2&gt;這種風格產生多用於家中小說而不用在非小說的不正式。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123050Z" creationid="MarkHung" creationdate="20171225T120818Z">
+        <seg>&lt;f0&gt;首字放大&lt;/f0&gt;較於非小說，多用於小說，&lt;f1&gt;較於學術論文，多用於雜誌。&lt;/f1&gt; &lt;f2&gt;這種風格產生多用於家中小說而不用在非小說的不正式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1153,8 +1153,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;The &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Drop Caps&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab for a paragraph style &lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;automates the process of creating a text frame and setting the text flow around it.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T120515Z" creationid="MarkHung" creationdate="20171225T120515Z">
-        <seg>段落樣式的&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「字首放大」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;頁籤&lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;自動化建立字框並且設定文字流向環繞的流程。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123042Z" creationid="MarkHung" creationdate="20171225T120515Z">
+        <seg>段落樣式的&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「首字放大」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;頁籤&lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;自動化建立字框並且設定文字流向環繞的流程。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2257,8 +2257,8 @@
       <tuv lang="EN">
         <seg>Create a &lt;f0&gt;Drop Caps&lt;/f0&gt; paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122631Z" creationid="MarkHung" creationdate="20171225T122631Z">
-        <seg>建立一個&lt;f0&gt;「字首放大」&lt;/f0&gt;的段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123107Z" creationid="MarkHung" creationdate="20171225T122631Z">
+        <seg>建立一個&lt;f0&gt;「首字放大」&lt;/f0&gt;的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2417,8 +2417,8 @@
       <tuv lang="EN">
         <seg>Drop cap&lt;f0&gt;ital&lt;/f0&gt;s are enlarged letters that mark the start of a new chapter or section.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T120351Z" creationid="MarkHung" creationdate="20171225T120351Z">
-        <seg>字首放大(Drop capital)用於標示新章節或區段開始時放大的字母。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123021Z" creationid="MarkHung" creationdate="20171225T120351Z">
+        <seg>首字放大(Drop capital)用於標示新章節或區段開始時放大的字母。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3850,8 +3850,8 @@
       <tuv lang="EN">
         <seg>Most likely, it will be the child of &lt;f1&gt;Text Body&lt;/f1&gt;, differing only in having settings for &lt;f2&gt;Drop Caps.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122726Z" creationid="MarkHung" creationdate="20171225T122726Z">
-        <seg>最可能的是，它可以是&lt;f1&gt;內文&lt;/f1&gt;的子樣式，只是設定了&lt;f2&gt;字首放大。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123111Z" creationid="MarkHung" creationdate="20171225T122726Z">
+        <seg>最可能的是，它可以是&lt;f1&gt;內文&lt;/f1&gt;的子樣式，只是設定了&lt;f2&gt;首字放大。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5537,6 +5537,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This selection enables others on the tab, as well as the &lt;f1&gt;preview&lt;/f1&gt; to the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123208Z" creationid="MarkHung" creationdate="20171225T123208Z">
+        <seg>選擇啟用其他此頁籤中的功能，以及右側的&lt;f1&gt;預覽檢視&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This structural use of templates tends to be under-emphasized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100343Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
@@ -5755,8 +5763,8 @@
       <tuv lang="EN">
         <seg>Use the &lt;f0&gt;Drop Caps &lt;/f0&gt;character style to define the font.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122607Z" creationid="MarkHung" creationdate="20171225T122607Z">
-        <seg>使用&lt;f0&gt;字首放大&lt;/f0&gt;字元樣式來定義字型。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123057Z" creationid="MarkHung" creationdate="20171225T122607Z">
+        <seg>使用&lt;f0&gt;首字放大&lt;/f0&gt;字元樣式來定義字型。</seg>
       </tuv>
     </tu>
     <tu>
