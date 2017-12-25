@@ -3231,6 +3231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your first page style starts lower down than the rest of your pages, or if the start is marked by a recurring design or by numbers, &lt;f0&gt;then drop caps may be more than you need.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122128Z" creationid="MarkHung" creationdate="20171225T122128Z">
+        <seg>如果第一頁的樣式開始的位置較其他頁面低，或者以某個重複的樣式或數字表示起始，&lt;f0&gt;也許你不需要首字放大。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Imagine that you are a financial account executive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T131838Z" creationid="Franklin Weng" creationdate="20171213T124619Z">
