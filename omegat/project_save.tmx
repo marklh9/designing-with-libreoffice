@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create a transparency to add quickly (if approximately) another color without formally defining a color in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T033300Z" creationid="MarkHung" creationdate="20171225T033300Z">
+        <seg>&lt;f0&gt;透過建立「透明」快速加入其他顏色，而不用在&lt;f1&gt;&lt;f2&gt;工具 &gt; 選像 &gt; LibreOffice &gt; 顏色&lt;/f2&gt;&lt;/f1&gt;中定義顏色&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Describing itself as “&lt;/f0&gt;the first ever open-source &lt;f1&gt;type&lt;/f1&gt; foundry,” &lt;f2&gt;The League of Moveable Type offers a small but select library of original font designs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T133043Z" creationid="zerng07" creationdate="20170817T133625Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T100534Z" creationid="MarkHung" creationdate="20171223T100534Z">
         <seg>&lt;f0&gt;使用訊框或無邊框的表格通常是更穩定的選擇。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;From the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Transparency&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, you can:&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T032921Z" creationid="MarkHung" creationdate="20171225T032921Z">
+        <seg>&lt;f0&gt;從&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「透明」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;頁籤，你可以：&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
