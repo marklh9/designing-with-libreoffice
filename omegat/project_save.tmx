@@ -4850,6 +4850,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifically, on the &lt;f0&gt;Outline &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&amp;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Numbering &lt;/f3&gt;tab&lt;f4&gt;,&lt;/f4&gt; you can:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T140549Z" creationid="MarkHung" creationdate="20171225T140541Z">
+        <seg>特別是，在&lt;f0&gt;「大綱&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;及&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;編號」&lt;/f3&gt;頁籤&lt;f4&gt;,&lt;/f4&gt;你可以：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specifically, you want to set &lt;f0&gt;the font, font size, font weight, font color, and the space above the paragraph.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111008Z" creationid="zerng07" creationdate="20171219T111008Z">
