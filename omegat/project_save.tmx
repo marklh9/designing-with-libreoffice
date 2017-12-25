@@ -158,10 +158,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;Borders&lt;f5&gt; that crowd the content only obscure.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T021928Z" creationid="MarkHung" creationdate="20171225T021928Z">
+        <seg>和內容擠在一起的&lt;/f4&gt;邊框&lt;f5&gt;只令人混淆。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123056Z" creationid="Franklin Weng" creationdate="20171213T123056Z">
         <seg>&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;s1/&gt;No matter how you add borders, minimize their width and be generous with the &lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Spacing to Contents&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T021718Z" creationid="MarkHung" creationdate="20171225T021718Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;無論你如何加入邊框，將線條寬度設為最小並使用較寬裕的&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;離內容的間距&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;設定。</seg>
       </tuv>
     </tu>
     <tu>
