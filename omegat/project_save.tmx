@@ -4561,6 +4561,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restart the numbering in a list from the right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T143019Z" creationid="MarkHung" creationdate="20171225T143019Z">
+        <seg>右鍵選單中的「重新開始編號」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restarting paragraph numbering</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T142657Z" creationid="MarkHung" creationdate="20171225T142657Z">
+        <seg>從頭開始編號段落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Run the spell check in the &lt;f0&gt;Tools&lt;/f0&gt; menu for each language used in the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075802Z" creationid="Jeff Huang" creationdate="20171213T030137Z">
@@ -5778,6 +5794,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To restart the numbering in a&lt;f0&gt;ny&lt;/f0&gt; numbered list, select &lt;f1&gt;Restart &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;N&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;umbering&lt;/f4&gt; from a paragraph’s right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T142922Z" creationid="MarkHung" creationdate="20171225T142922Z">
+        <seg>要重新開始&lt;f0&gt;任一個&lt;/f0&gt;清單的編號，從段落的右鍵選單中選擇&lt;f1&gt;「重新開始編號」 &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To set up borders:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091018Z" creationid="MarkHung" creationdate="20171223T090804Z">
@@ -6398,6 +6422,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141529Z" creationid="zerng07" creationdate="20171212T141529Z">
         <seg>你無法更改樣式的細節層面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not need to create a separate list style for each numbered list in a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T142739Z" creationid="MarkHung" creationdate="20171225T142739Z">
+        <seg>你不需要替每個文件中的編號清單建立獨立的清單樣式。</seg>
       </tuv>
     </tu>
     <tu>
