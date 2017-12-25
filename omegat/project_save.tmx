@@ -4160,6 +4160,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, changes in features such as font or font size may force you to re-set them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T115908Z" creationid="MarkHung" creationdate="20171225T115908Z">
+        <seg>否則，未來如字型或字型大小的改變可能迫使你重設設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, consider whether you need tabs or can substitute another solution.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T100215Z" creationid="MarkHung" creationdate="20171223T100215Z">
@@ -4888,6 +4896,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Dos and Don’ts of using tab stops.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T120126Z" creationid="MarkHung" creationdate="20171225T120126Z">
+        <seg>使用定位點時的做與不做的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Navigator &lt;f0&gt;is an ideal tool for restructuring material if your document has headings or descriptively named objects.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T070235Z" creationid="Jeff Huang" creationdate="20171123T080926Z">
@@ -5580,6 +5596,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T115649Z" creationid="MarkHung" creationdate="20171225T115649Z">
         <seg>用&lt;f0&gt;定位點&lt;/f0&gt;定位文字框(如頁首或頁尾)中的字元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use fill characters &lt;f0&gt;in &lt;/f0&gt;the blank space&lt;f1&gt;s&lt;/f1&gt; between tab &lt;f2&gt;positions&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T120006Z" creationid="MarkHung" creationdate="20171225T120006Z">
+        <seg>在定位點之間的空白使用填入字元。&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
