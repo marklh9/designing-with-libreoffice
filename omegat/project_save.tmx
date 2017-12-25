@@ -4480,6 +4480,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select either&lt;f0&gt; Number of characters&lt;/f0&gt; or &lt;f1&gt;Whole word &lt;/f1&gt;&lt;f2&gt;to set the length of the drop cap&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;You can use up to 9 characters.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123516Z" creationid="MarkHung" creationdate="20171225T123516Z">
+        <seg>選擇&lt;f0&gt;「字元數」&lt;/f0&gt;或&lt;f1&gt;「整個單字」&lt;/f1&gt;&lt;f2&gt;設定放大的字數。&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;你可以使用多至9個字元。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select font weight from the tool bar icon.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111526Z" creationid="zerng07" creationdate="20171219T111526Z">
@@ -5539,8 +5547,8 @@
       <tuv lang="EN">
         <seg>This selection enables others on the tab, as well as the &lt;f1&gt;preview&lt;/f1&gt; to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123208Z" creationid="MarkHung" creationdate="20171225T123208Z">
-        <seg>選擇啟用其他此頁籤中的功能，以及右側的&lt;f1&gt;預覽檢視&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123219Z" creationid="MarkHung" creationdate="20171225T123208Z">
+        <seg>選擇將啟用其他此頁籤中的功能，以及右側的&lt;f1&gt;預覽檢視&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5677,6 +5685,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075149Z" creationid="Jeff Huang" creationdate="20171220T075149Z">
         <seg>一般來說，你會在插入形狀後套用它們。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under &lt;f0&gt;Character style, &lt;/f0&gt;select &lt;f1&gt;Drop Caps.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123323Z" creationid="MarkHung" creationdate="20171225T123323Z">
+        <seg>在&lt;f0&gt;字元樣式中，&lt;/f0&gt;選擇&lt;f1&gt;首字放大。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
