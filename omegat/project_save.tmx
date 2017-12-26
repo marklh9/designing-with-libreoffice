@@ -2944,6 +2944,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, at that point, using a dedicated &lt;f1&gt;HTML&lt;/f1&gt; editor &lt;f2&gt;is&lt;/f2&gt; less &lt;f3&gt;trouble.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T122341Z" creationid="MarkHung" creationdate="20171226T122341Z">
+        <seg>然而，至此，使用專門的&lt;f1&gt;HTML&lt;/f1&gt;編輯器比較不麻煩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, at this point, your work is ended and so is this book (or very nearly).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091744Z" creationid="Jeff Huang" creationdate="20171214T070033Z">
@@ -4601,6 +4609,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Problems with cluttered &lt;f0&gt;HTML&lt;/f0&gt; are often compounded &lt;f1&gt;when &lt;/f1&gt;the output files are used, or when someone uses a file without knowing its limitations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T122726Z" creationid="MarkHung" creationdate="20171226T122726Z">
+        <seg>當輸出的檔案被使用時，或某些人使用這些檔案而不曉得他的限制時，問題常伴隨著凌亂的&lt;f0&gt;HTML&lt;/f0&gt;產生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Putting &lt;f0&gt;everything&lt;/f0&gt; together</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085326Z" creationid="Jeff Huang" creationdate="20171213T025952Z">
@@ -5590,6 +5606,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092913Z" creationid="zerng07" creationdate="20170817T092913Z">
         <seg>若要下載最新發行版的官方頁面請到這裡：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The only times that using LibreOffice’s &lt;f0&gt;HTML&lt;/f0&gt; output is advisable are when the output is only going to be used &lt;f1&gt;by&lt;/f1&gt; itself and &lt;f2&gt;has&lt;/f2&gt; a short life.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T122435Z" creationid="MarkHung" creationdate="20171226T122435Z">
+        <seg>唯一建議使用LibreOffice的&lt;f0&gt;HTML&lt;/f0&gt;輸出的時機是輸出僅將提供LibreOffice自己短暫的使用。</seg>
       </tuv>
     </tu>
     <tu>
