@@ -3625,6 +3625,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also includes &lt;f4&gt;View &gt; HTML Source&lt;/f4&gt; so you can see the code with which you are working.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T121347Z" creationid="MarkHung" creationdate="20171226T121347Z">
+        <seg>他也包含&lt;f4&gt;「檢視 &gt; HTML Source」&lt;/f4&gt;，讓你觀察作業中的代碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It assumes that &lt;/f4&gt;readers are either already familiar with LibreOffice and other office suite&lt;f5&gt;s, or, at least, &lt;/f5&gt;can tour the menus by themselves.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163930Z" creationid="zerng07" creationdate="20170817T163930Z">
