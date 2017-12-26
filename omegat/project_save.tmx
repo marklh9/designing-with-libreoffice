@@ -647,6 +647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; code is generally best avoided.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123807Z" creationid="MarkHung" creationdate="20171226T123807Z">
+        <seg>一般來說，最好避免&lt;f0&gt;LibreOffice的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;代碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice does not display template directories directly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125449Z" creationid="Franklin Weng" creationdate="20171212T125449Z">
@@ -3008,6 +3016,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How &lt;f0&gt;Character&lt;/f0&gt; styles are mapped to &lt;f1&gt;HTML&lt;/f1&gt; tags.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123727Z" creationid="MarkHung" creationdate="20171226T123727Z">
+        <seg>&lt;f0&gt;字元樣式&lt;/f0&gt;如何對應&lt;f1&gt;HTML&lt;/f1&gt; 標籤.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How does your document develop?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054515Z" creationid="Jeff Huang" creationdate="20171123T061422Z">
@@ -3132,6 +3148,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T093630Z" creationid="MarkHung" creationdate="20171223T093630Z">
         <seg>然而如果無法說明使用陰影的原因，應該不要使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if you do decide to use it,&lt;/f3&gt; &lt;f4&gt;follow these steps to minimize problems:&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123839Z" creationid="MarkHung" creationdate="20171226T123839Z">
+        <seg>然而，如果你決定使用這個功能，&lt;/f3&gt; &lt;f4&gt;遵循以下步驟減少問題：&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4137,6 +4161,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minimizing HTML problems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123735Z" creationid="MarkHung" creationdate="20171226T123735Z">
+        <seg>減少HTML的問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More formal documents will probably have an opening paragraph or passage that sets up the topic and gives a little background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T055204Z" creationid="Jeff Huang" creationdate="20171123T065848Z">
@@ -4753,6 +4785,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;F11 &lt;/f0&gt;to open the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123956Z" creationid="MarkHung" creationdate="20171226T123956Z">
+        <seg>按下&lt;f0&gt;F11&lt;/f0&gt;按鍵打開&lt;f1&gt;「樣式與格式」&lt;/f1&gt;視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;F11&lt;/f0&gt; to open the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; floating window.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112653Z" creationid="zerng07" creationdate="20171219T112653Z">
@@ -4901,6 +4941,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112938Z" creationid="zerng07" creationdate="20171219T112938Z">
         <seg>捲動到你想要使用的段落樣式位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;File &gt; New &gt; HTML Document.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123926Z" creationid="MarkHung" creationdate="20171226T123926Z">
+        <seg>選擇&lt;f0&gt;「檔案 &gt; 新增 &gt; HTML文件」&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6358,6 +6406,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T122942Z" creationid="MarkHung" creationdate="20171226T122942Z">
         <seg>使用&lt;f0&gt;清單樣式&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uses default font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123656Z" creationid="MarkHung" creationdate="20171226T123656Z">
+        <seg>使用預設字型。</seg>
       </tuv>
     </tu>
     <tu>
