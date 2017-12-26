@@ -5180,8 +5180,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Restart at this paragraph&lt;/f0&gt; field on the &lt;f1&gt;Outline &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Numbering&lt;/f4&gt; tab is for line numbering, not paragraph numbering.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104025Z" creationid="MarkHung" creationdate="20171226T104025Z">
-        <seg>「大綱及編號」頁籤中的&lt;f0&gt;「從這個段落重新開始」，是行號，不是段落清單編號。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T105928Z" creationid="MarkHung" creationdate="20171226T104025Z">
+        <seg>「大綱及編號」頁籤中的「從這個段落重新開始」，是行號，不是段落清單編號。</seg>
       </tuv>
     </tu>
     <tu>
