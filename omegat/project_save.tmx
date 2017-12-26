@@ -4651,8 +4651,8 @@
       <tuv lang="EN">
         <seg>Select either&lt;f0&gt; Number of characters&lt;/f0&gt; or &lt;f1&gt;Whole word &lt;/f1&gt;&lt;f2&gt;to set the length of the drop cap&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;You can use up to 9 characters.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T130933Z" creationid="MarkHung" creationdate="20171225T123516Z">
-        <seg>選擇&lt;f0&gt;「字元數」&lt;/f0&gt;或&lt;f1&gt;「整個單字」&lt;/f1&gt;&lt;f2&gt;設定放大的字數。&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;你可以使用多至9個字元。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T111107Z" creationid="MarkHung" creationdate="20171225T123516Z">
+        <seg>選擇&lt;f0&gt;「字元數」&lt;/f0&gt;或&lt;f1&gt;「整個單字」&lt;/f1&gt;&lt;f2&gt;設定放大的字數。&lt;/f2&gt;&lt;f6&gt;你可以使用多至9個字元。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5780,8 +5780,8 @@
       <tuv lang="EN">
         <seg>This selection enables others on the tab, as well as the &lt;f1&gt;preview&lt;/f1&gt; to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123219Z" creationid="MarkHung" creationdate="20171225T123208Z">
-        <seg>選擇將啟用其他此頁籤中的功能，以及右側的&lt;f1&gt;預覽檢視&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T111040Z" creationid="MarkHung" creationdate="20171225T123208Z">
+        <seg>選擇將啟用其他此頁籤中的功能，以及右側的&lt;f1&gt;預覽檢視&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
