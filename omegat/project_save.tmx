@@ -343,6 +343,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;D&lt;/f0&gt;isplays as an italic font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123551Z" creationid="MarkHung" creationdate="20171226T123551Z">
+        <seg>顯示斜體字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;D&lt;/f0&gt;rop caps are more common in fiction than non-fiction, &lt;f1&gt;and in magazines than in an academic essay.&lt;/f1&gt; &lt;f2&gt;They create an informality that is more at home in a novel than in most types of non-fiction.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T123050Z" creationid="MarkHung" creationdate="20171225T120818Z">
@@ -2488,6 +2496,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defaults to default font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123624Z" creationid="MarkHung" creationdate="20171226T123624Z">
+        <seg>預設使用預設字形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defaults to monospaced font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123637Z" creationid="MarkHung" creationdate="20171226T123637Z">
+        <seg>預設使用等寬字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Definition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123527Z" creationid="MarkHung" creationdate="20171226T123527Z">
+        <seg>定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Descriptive titles are simply easier to find in a menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132738Z" creationid="Franklin Weng" creationdate="20171213T132738Z">
@@ -2516,6 +2548,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133331Z" creationid="Franklin Weng" creationdate="20171213T133331Z">
         <seg>從頭設計你自己的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays default font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123538Z" creationid="MarkHung" creationdate="20171226T123538Z">
+        <seg>顯示預設字形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2620,6 +2660,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090520Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
         <seg>你可以列印出一份紙本，或是用「&lt;f0&gt;檔案 → 列印預覽」。&lt;/f0&gt; &lt;f1&gt;當然，最好的狀況是兩個方法都做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emphasis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123544Z" creationid="MarkHung" creationdate="20171226T123544Z">
+        <seg>強調</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Endnote characters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123601Z" creationid="MarkHung" creationdate="20171226T123601Z">
+        <seg>尾註字元</seg>
       </tuv>
     </tu>
     <tu>
@@ -2740,6 +2796,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T071954Z" creationid="Jeff Huang" creationdate="20171212T035428Z">
         <seg>註腳與標題是否如你預期中的安排提供資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footnote characters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123644Z" creationid="MarkHung" creationdate="20171226T123644Z">
+        <seg>尾註字元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4757,6 +4821,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T081444Z" creationid="Jeff Huang" creationdate="20171213T031751Z">
         <seg>將遠近調整至75%或更小，並查看頁面內容在何處完結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>References style sheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123609Z" creationid="MarkHung" creationdate="20171226T123609Z">
+        <seg>參考樣式表</seg>
       </tuv>
     </tu>
     <tu>
