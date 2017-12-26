@@ -1064,6 +1064,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To use&lt;/f0&gt; the template, navigate to the directory &lt;f1&gt;in which the template was saved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T134122Z" creationid="MarkHung" creationdate="20171226T134122Z">
+        <seg>&lt;f0&gt;要使用範本&lt;/f0&gt;瀏覽保存範本的目錄。&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To&lt;/f0&gt; get extensions and templates for LibreOffice, &lt;f1&gt;go to these links:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193303Z" creationid="zerng07" creationdate="20170817T171046Z">
