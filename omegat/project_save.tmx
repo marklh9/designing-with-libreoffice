@@ -3576,6 +3576,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want clean &lt;f0&gt;HTML&lt;/f0&gt; output, &lt;f1&gt;do one (or both) of the following: Manually remove unnecessary tags or run the file through a tool &lt;/f1&gt;such as &lt;f2&gt;HTML&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Tidy&lt;f4&gt;.&lt;/f4&gt; In Linux, many major distributions have &lt;f5&gt;HTML&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;Tidy in their repositories.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T133939Z" creationid="MarkHung" creationdate="20171226T133939Z">
+        <seg>如果你想清理&lt;f0&gt;HTML&lt;/f0&gt;輸出，&lt;f1&gt;依照下一個(或全部)步驟進行： 手動移除非必要的標籤，或透過像是&lt;/f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Tidy&lt;f4&gt;之類的工具&lt;/f4&gt;移除標籤，許多主要的發行套件軟體庫都有&lt;f5&gt;HTML&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;Tidy。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want clean code, avoid using additional styles, using any character or paragraph style that requires a style sheet, or using multiple page, frame, or list styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T133053Z" creationid="MarkHung" creationdate="20171226T133053Z">
@@ -4605,6 +4613,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111606Z" creationid="zerng07" creationdate="20171219T111606Z">
         <seg>打開工具列的&lt;f0&gt;字型色彩&lt;/f0&gt;列表，並選取指定的&lt;f1&gt;色彩&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the file in at least one major browser such as Chrome, Firefox, &lt;f0&gt;or&lt;/f0&gt; Internet Explorer to see whether any display problems exist.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T134043Z" creationid="MarkHung" creationdate="20171226T134043Z">
+        <seg>在至少一個主流瀏覽器(如Chrome、Firefox，或者Internet Explorer)中開啟檔案，檢查是否有任何問題存在。</seg>
       </tuv>
     </tu>
     <tu>
