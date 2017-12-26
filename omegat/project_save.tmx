@@ -992,6 +992,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To switch to a lower list level while using the associated paragraph style, press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key before entering content; to switch to a higher list level, press &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+Tab.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T105200Z" creationid="MarkHung" creationdate="20171226T105200Z">
+        <seg>&lt;f0&gt;使用連結的段落樣式時，要切換到清單上的較低階層，輸入內容前按下&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鍵件；要切換到較高階層，按下&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+Tab。&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To&lt;/f0&gt; get extensions and templates for LibreOffice, &lt;f1&gt;go to these links:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193303Z" creationid="zerng07" creationdate="20170817T171046Z">
@@ -5502,6 +5510,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092913Z" creationid="zerng07" creationdate="20170817T092913Z">
         <seg>若要下載最新發行版的官方頁面請到這裡：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The preview pane can help you set up each list level, and the customized list style is associated with a paragraph style for use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104946Z" creationid="MarkHung" creationdate="20171226T104946Z">
+        <seg>預覽窗格可以幫助你設定每一個清單階層，自訂的清單樣式與段落樣式連結提供使用。</seg>
       </tuv>
     </tu>
     <tu>
