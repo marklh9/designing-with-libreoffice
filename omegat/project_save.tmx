@@ -337,8 +337,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create a transparency to add quickly (if approximately) another color without formally defining a color in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T033548Z" creationid="MarkHung" creationdate="20171225T033300Z">
-        <seg>&lt;f0&gt;透過建立「透明」快速加入其他(近似的)顏色，而不用在&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 顏色&lt;/f2&gt;&lt;/f1&gt;中定義顏色&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T111345Z" creationid="MarkHung" creationdate="20171225T033300Z">
+        <seg>透過建立「透明」快速加入其他(近似的)顏色，而不用在&lt;f1&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 顏色&lt;/f1&gt;中定義顏色</seg>
       </tuv>
     </tu>
     <tu>
