@@ -783,6 +783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Paragraph s&lt;/f0&gt;tyle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T122744Z" creationid="MarkHung" creationdate="20171226T122744Z">
+        <seg>&lt;f0&gt;段落樣式&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Preparing&lt;/f0&gt; &lt;f1&gt;styles for HTML&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120923Z" creationid="MarkHung" creationdate="20171226T120923Z">
@@ -2376,6 +2384,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T122759Z" creationid="MarkHung" creationdate="20171226T122759Z">
+        <seg>註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consider alternatives so that they do not become too noticeable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085952Z" creationid="Jeff Huang" creationdate="20171111T133931Z">
@@ -2852,6 +2868,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T072657Z" creationid="Jeff Huang" creationdate="20171213T023745Z">
         <seg>圖片、表格、圖表、其他物件等，都應該要盡可能靠近它們所指涉的文字旁邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML &lt;f0&gt;t&lt;/f0&gt;ags</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T122754Z" creationid="MarkHung" creationdate="20171226T122754Z">
+        <seg>HTML&lt;f0&gt;標籤&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heading 1-6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T122805Z" creationid="MarkHung" creationdate="20171226T122805Z">
+        <seg>標題1-6</seg>
       </tuv>
     </tu>
     <tu>
