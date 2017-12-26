@@ -2496,6 +2496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customize only by making changes to the pre-defined paragraph and character styles &lt;f0&gt;listed in the table above.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T124322Z" creationid="MarkHung" creationdate="20171226T124322Z">
+        <seg>僅透過修改&lt;f0&gt;上面表格列出的&lt;/f0&gt;預設的段落和字元樣式客制化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Debunking myths about styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T140333Z" creationid="zerng07" creationdate="20171212T140333Z">
@@ -4337,6 +4345,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notice that &lt;f2&gt;the&lt;/f2&gt; &lt;f3&gt;All&lt;/f3&gt; and &lt;f4&gt;HTML&lt;/f4&gt; views are identical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T124055Z" creationid="MarkHung" creationdate="20171226T124044Z">
+        <seg>注意&lt;f3&gt;所有&lt;/f3&gt;及&lt;f4&gt;一般&lt;/f4&gt;檢視是相同的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notice that only &lt;f0&gt;6&lt;/f0&gt; headings are available, while Writer has 10.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T122858Z" creationid="MarkHung" creationdate="20171226T122858Z">
@@ -4949,6 +4965,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123926Z" creationid="MarkHung" creationdate="20171226T123926Z">
         <seg>選擇&lt;f0&gt;「檔案 &gt; 新增 &gt; HTML文件」&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;View &gt; Web Layout.&lt;/f0&gt; &lt;f1&gt;This selection displays the file as a web page instead of a printed page.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T124202Z" creationid="MarkHung" creationdate="20171226T124202Z">
+        <seg>選擇&lt;f0&gt;「檢視 &gt; 網頁」&lt;/f0&gt;&lt;f1&gt;。這個選擇將檔案以網頁而非待列印的頁面顯示。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
