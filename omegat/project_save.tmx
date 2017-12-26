@@ -5386,6 +5386,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first is to create a list style, and set up two or more list levels with different formatting choices on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tabs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104610Z" creationid="MarkHung" creationdate="20171226T104610Z">
+        <seg>首先建立一個清單樣式，並且在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「位置」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「自訂」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;頁籤設定不同的格式化設定，建立兩個甚至更多的階層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The four types of tab positions &lt;f0&gt;differ in where text appears in relation to the tab stop in the ruler.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T132342Z" creationid="MarkHung" creationdate="20171225T042055Z">
@@ -5806,6 +5814,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T125500Z" creationid="Franklin Weng" creationdate="20171218T125500Z">
         <seg>要啟用範本，需要依照下列步驟進行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To nest a list, &lt;f0&gt;you have two choices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104310Z" creationid="MarkHung" creationdate="20171226T104310Z">
+        <seg>建立巢狀清單， &lt;f0&gt;你有兩種選擇。</seg>
       </tuv>
     </tu>
     <tu>
