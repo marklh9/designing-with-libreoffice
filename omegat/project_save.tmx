@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f5&gt;Notice that you cannot save an &lt;f6&gt;HTML&lt;/f6&gt; document &lt;f7&gt;using &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Templates &gt; Save As Template.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; If you try, you receive no error message, but nothing is saved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T133612Z" creationid="MarkHung" creationdate="20171226T133534Z">
+        <seg>&lt;/f5&gt;注意你無法使用「範本 &gt; 另存為範本」儲存儲存&lt;f6&gt;HTML&lt;/f6&gt;文件&lt;f10&gt;如果你嘗試，不會有錯誤訊息，也不會儲存任何檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123056Z" creationid="Franklin Weng" creationdate="20171213T123056Z">
@@ -3789,6 +3797,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125935Z" creationid="Franklin Weng" creationdate="20171212T125500Z">
         <seg>相對地，它會將&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「工具」&gt;「選項」&gt;「路徑」&gt;「範本」&lt;/f2&gt;&lt;/f1&gt;中所列出的範本目錄中所有的內容，都&lt;f3&gt;顯示在&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;範本&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;視窗中。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, save the file as an &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;HTML Document Template&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; in a directory specifically set aside for that purpose.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T133725Z" creationid="MarkHung" creationdate="20171226T133607Z">
+        <seg>另外，將檔案於特別做為保存範本用目錄另存為&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;HTML文件範本&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;。&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
