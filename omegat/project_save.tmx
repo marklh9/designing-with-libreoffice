@@ -1528,6 +1528,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A nested list – a list within a list – is most common in an online text, where space is unimportant and structured text like lists and tables improve readability.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104230Z" creationid="MarkHung" creationdate="20171226T104230Z">
+        <seg>巢狀清單，即清單中的清單，最常出現在文字大綱，空間較不重要，像清單或表格一樣結構化的文字改善可讀性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A paragraph that takes up more than half a page should usually be divided up regardless of the publishing format, because extremely large paragraphs can make readers skip them.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085644Z" creationid="Jeff Huang" creationdate="20171111T132234Z">
@@ -4033,6 +4041,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nesting lists</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104039Z" creationid="MarkHung" creationdate="20171226T104039Z">
+        <seg>巢狀清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Never make any formatting changes in a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120625Z" creationid="Franklin Weng" creationdate="20171212T120620Z">
@@ -5142,6 +5158,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T122145Z" creationid="MarkHung" creationdate="20171225T122145Z">
         <seg>&lt;f0&gt;「首字放大」&lt;/f0&gt;頁籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Restart at this paragraph&lt;/f0&gt; field on the &lt;f1&gt;Outline &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Numbering&lt;/f4&gt; tab is for line numbering, not paragraph numbering.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104025Z" creationid="MarkHung" creationdate="20171226T104025Z">
+        <seg>「大綱及編號」頁籤中的&lt;f0&gt;「從這個段落重新開始」，是行號，不是段落清單編號。</seg>
       </tuv>
     </tu>
     <tu>
