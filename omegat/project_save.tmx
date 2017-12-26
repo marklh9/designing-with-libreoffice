@@ -1776,6 +1776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An even greater limitation is that only a limited number of character and paragraph styles are converted directly into &lt;f0&gt;HTML&lt;/f0&gt; tags.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T121639Z" creationid="MarkHung" creationdate="20171226T121639Z">
+        <seg>更大的線至在於只有有限的字元及段落樣式被轉換為&lt;f0&gt;HTML&lt;/f0&gt;標籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An unordered list is another name for a bullet list, and an ordered list is another name for a numbered list.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T142215Z" creationid="MarkHung" creationdate="20171225T142215Z">
@@ -4257,6 +4265,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the other hand, you cannot save &lt;f0&gt;files as&lt;/f0&gt; &lt;f1&gt;HTML&lt;/f1&gt; in the template manager.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T121457Z" creationid="MarkHung" creationdate="20171226T121457Z">
+        <seg>另一方面，你不能在「管理範本」中江檔案另存為HTML。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have added the style to one type of object, you can copy and paste to create others of the same type, or else use&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Duplicate&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T072727Z" creationid="Jeff Huang" creationdate="20171221T072727Z">
@@ -6366,6 +6382,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114845Z" creationid="Franklin Weng" creationdate="20171212T114845Z">
         <seg>不管你用哪一份範本，都要&lt;f0&gt;先將範本註冊完成才能開始使用。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While L&lt;f2&gt;i&lt;/f2&gt;breOffice uses &lt;f3&gt;File &gt; Document Properties&lt;/f3&gt; to create a thorough collection of meta-tags, it also converts all graphics to .jpegs, with no provision for doing otherwise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T121610Z" creationid="MarkHung" creationdate="20171226T121610Z">
+        <seg>LibreOfficeg使用&lt;f3&gt;「檔案 &gt; 屬性」&lt;/f3&gt;建立完整的meta標籤，他也將所有的圖形轉為.jpeg格式，而不提供其他選擇。</seg>
       </tuv>
     </tu>
     <tu>
