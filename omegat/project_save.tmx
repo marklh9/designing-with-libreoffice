@@ -5282,6 +5282,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table Contents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123141Z" creationid="MarkHung" creationdate="20171226T123141Z">
+        <seg>表格內容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table Heading</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123151Z" creationid="MarkHung" creationdate="20171226T123151Z">
+        <seg>表格標題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tabs are set positions on a line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T034213Z" creationid="MarkHung" creationdate="20171225T034213Z">
