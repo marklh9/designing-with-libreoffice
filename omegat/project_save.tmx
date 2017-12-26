@@ -1906,8 +1906,8 @@
       <tuv lang="EN">
         <seg>Associate a list style with a paragraph style in the &lt;f0&gt;Numbering &lt;/f0&gt;section on a paragraph style’s &lt;f1&gt;Outline &amp; Numbering&lt;/f1&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T141959Z" creationid="MarkHung" creationdate="20171225T141959Z">
-        <seg>在段落樣式&lt;f1&gt;「大綱與編號」&lt;/f1&gt;頁籤中的&lt;f0&gt;「編號」&lt;/f0&gt;區塊，連結清單樣式與段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120047Z" creationid="MarkHung" creationdate="20171225T141959Z">
+        <seg>在段落樣式「大綱與編號」頁籤中的「編號」區塊，連結清單樣式與段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6468,8 +6468,8 @@
       <tuv lang="EN">
         <seg>You can switch to the next level below by pressing the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Tab&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; key, or to the one above by pressing &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Shift+Tab.&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104722Z" creationid="MarkHung" creationdate="20171226T104722Z">
-        <seg>你可以按下Tab切換到下個階層，或者按下Shift+Tab到上一個階層。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120228Z" creationid="MarkHung" creationdate="20171226T104722Z">
+        <seg>你可以按下Tab切換到下個階層，或者按下Shift+Tab到上一個階層</seg>
       </tuv>
     </tu>
     <tu>
