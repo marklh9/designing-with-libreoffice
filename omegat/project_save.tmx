@@ -5226,6 +5226,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The advantage of list levels is that each level can be formatted separately, but all the levels remain connected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104654Z" creationid="MarkHung" creationdate="20171226T104654Z">
+        <seg>清單階層的好處是每一階層可以分別格式化，而所有的階層仍然相連。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The all-purpose template I first designed in 2002 took several hours to design, and maybe another two to fine-tune.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100933Z" creationid="Franklin Weng" creationdate="20171212T100933Z">
@@ -6430,6 +6438,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083304Z" creationid="Jeff Huang" creationdate="20171214T060620Z">
         <seg>有時候你可以先從子文件把某個範圍的頁面列印成 &lt;f0&gt;&lt;f1&gt;PDF&lt;/f1&gt;&lt;/f0&gt;，再從主控文件做一樣的事情，並比較兩者間行文分頁的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can switch to the next level below by pressing the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Tab&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; key, or to the one above by pressing &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Shift+Tab.&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104722Z" creationid="MarkHung" creationdate="20171226T104722Z">
+        <seg>你可以按下Tab切換到下個階層，或者按下Shift+Tab到上一個階層。</seg>
       </tuv>
     </tu>
     <tu>
