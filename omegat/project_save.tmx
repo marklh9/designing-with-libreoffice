@@ -487,6 +487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;HTML&lt;/f0&gt; has never been &lt;f1&gt;well&lt;/f1&gt; integrated into LibreOffice Writer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120958Z" creationid="MarkHung" creationdate="20171226T120958Z">
+        <seg>HTML從未&lt;f1&gt;妥善&lt;/f1&gt;整合至LibreOffice Writer中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, &lt;/f0&gt;you can find examples of it in some releases of LibreOffice or OpenOffice in the Impress templates entitled “Introducing a New Strategy” and “Recommendation of a Strategy.”</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100354Z" creationid="Franklin Weng" creationdate="20171212T100354Z">
@@ -775,6 +783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Preparing&lt;/f0&gt; &lt;f1&gt;styles for HTML&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120923Z" creationid="MarkHung" creationdate="20171226T120923Z">
+        <seg>準備HTML使用的樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Printed&lt;/f0&gt; versions of the same manuals &lt;f1&gt;are available for sale &lt;/f1&gt;at the Friends of Open Document store &lt;f2&gt;at:&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184216Z" creationid="zerng07" creationdate="20170817T183857Z">
@@ -994,8 +1010,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To switch to a lower list level while using the associated paragraph style, press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key before entering content; to switch to a higher list level, press &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+Tab.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T105200Z" creationid="MarkHung" creationdate="20171226T105200Z">
-        <seg>&lt;f0&gt;使用連結的段落樣式時，要切換到清單上的較低階層，輸入內容前按下&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鍵件；要切換到較高階層，按下&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+Tab。&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120302Z" creationid="MarkHung" creationdate="20171226T105200Z">
+        <seg>使用連結的段落樣式時，要切換到清單上的較低階層，輸入內容前按下&lt;f1&gt;Tab&lt;/f1&gt;按鍵；要切換到較高階層，按下&lt;f5&gt;Shift+Tab。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,8 +1250,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;The smallest formatting change can sometimes throw them out of position.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T042216Z" creationid="MarkHung" creationdate="20171225T042216Z">
-        <seg>&lt;f1&gt;有時最小的改變有時候會造成移位。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120414Z" creationid="MarkHung" creationdate="20171225T042216Z">
+        <seg>&lt;f1&gt;有時最小的格式改變有時候會造成移位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3555,8 +3571,8 @@
       <tuv lang="EN">
         <seg>Instead, create a &lt;f1&gt;First Line Indent &lt;/f1&gt;and check the &lt;f2&gt;Automatic&lt;/f2&gt; box on the &lt;f3&gt;Indents and Spacing&lt;/f3&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T115206Z" creationid="MarkHung" creationdate="20171225T115206Z">
-        <seg>設定&lt;f3&gt;縮排與間距&lt;/f3&gt;中的&lt;f1&gt;首行縮排&lt;/f1&gt;並勾選&lt;f2&gt;自動&lt;/f2&gt;選項。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120353Z" creationid="MarkHung" creationdate="20171225T115206Z">
+        <seg>設定「縮排與間距」中的「首行縮排」並勾選「自動」選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4221,6 +4237,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T092340Z" creationid="MarkHung" creationdate="20171223T092340Z">
         <seg>所有平台都有許多比Writer更容易使用的網頁工具。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the one hand, Writer includes &lt;f0&gt;View &gt; Web Layout &lt;/f0&gt;so you can have a&lt;f1&gt;n&lt;/f1&gt; approximation of how an &lt;f2&gt;HTML&lt;/f2&gt; page looks, &lt;f3&gt;but the view is not always reliable&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T121225Z" creationid="MarkHung" creationdate="20171226T121225Z">
+        <seg>另一方面，Writer包含&lt;f0&gt;「檢視 &gt; 網頁」&lt;/f0&gt;，讓你可以概觀&lt;f2&gt;HTML&lt;/f2&gt;網頁顯示的結果，&lt;f3&gt;但是檢視功能並非總是可靠。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5244,8 +5268,8 @@
       <tuv lang="EN">
         <seg>The advantage of list levels is that each level can be formatted separately, but all the levels remain connected.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104654Z" creationid="MarkHung" creationdate="20171226T104654Z">
-        <seg>清單階層的好處是每一階層可以分別格式化，而所有的階層仍然相連。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120440Z" creationid="MarkHung" creationdate="20171226T104654Z">
+        <seg>清單階層的好處是每一階層可以分別設定格式，而所有的階層仍然相連。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5412,8 +5436,8 @@
       <tuv lang="EN">
         <seg>The first is to create a list style, and set up two or more list levels with different formatting choices on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tabs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104610Z" creationid="MarkHung" creationdate="20171226T104610Z">
-        <seg>首先建立一個清單樣式，並且在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「位置」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「自訂」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;頁籤設定不同的格式化設定，建立兩個甚至更多的階層。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120702Z" creationid="MarkHung" creationdate="20171226T104610Z">
+        <seg>首先建立一個清單樣式，並且在&lt;f2&gt;「位置」&lt;/f2&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f5&gt;「自訂」&lt;/f5&gt;頁籤設定不同的格式設定，建立兩個甚至更多的階層。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5852,8 +5876,8 @@
       <tuv lang="EN">
         <seg>To nest a list, &lt;f0&gt;you have two choices.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104310Z" creationid="MarkHung" creationdate="20171226T104310Z">
-        <seg>建立巢狀清單， &lt;f0&gt;你有兩種選擇。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120635Z" creationid="MarkHung" creationdate="20171226T104310Z">
+        <seg>建立巢狀清單， 你有兩種選擇。</seg>
       </tuv>
     </tu>
     <tu>
