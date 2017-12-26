@@ -5170,6 +5170,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Preview&lt;/f0&gt; pane for a &lt;f1&gt;bulleted&lt;/f1&gt; list style with two list levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T105245Z" creationid="MarkHung" creationdate="20171226T105245Z">
+        <seg>&lt;f0&gt;「預覽」&lt;/f0&gt;窗格顯示有兩個階層的&lt;f1&gt;項目符號&lt;/f1&gt;清單樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Restart at this paragraph&lt;/f0&gt; field on the &lt;f1&gt;Outline &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Numbering&lt;/f4&gt; tab is for line numbering, not paragraph numbering.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104025Z" creationid="MarkHung" creationdate="20171226T104025Z">
