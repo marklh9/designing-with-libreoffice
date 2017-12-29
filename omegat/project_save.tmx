@@ -199,6 +199,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;his paragraph in line numbering&lt;/f2&gt; is unchecked.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T133454Z" creationid="MarkHung" creationdate="20171229T133454Z">
+        <seg>這個段落的行編號不勾選。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;s1/&gt;No matter how you add borders, minimize their width and be generous with the &lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Spacing to Contents&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; settings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T021718Z" creationid="MarkHung" creationdate="20171225T021718Z">
@@ -291,6 +299,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024422Z" creationid="MarkHung" creationdate="20171223T085859Z">
         <seg>&lt;f0&gt;此外&lt;/f0&gt;，&lt;f1&gt;這類功能可能&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;有比想像更實際的用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Body Text Indent &lt;/f0&gt;is a &lt;f1&gt;pre-defined &lt;/f1&gt;paragraph style that you can use for this purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T133639Z" creationid="MarkHung" creationdate="20171229T133639Z">
+        <seg>&lt;f0&gt;「內文縮排」&lt;/f0&gt;是以此目的預先設計好的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3596,6 +3612,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083350Z" creationid="Jeff Huang" creationdate="20171214T061038Z">
         <seg>如果你在兩份子文件間有做交叉參照的話，當你開啟子文件時，目標子文件會顯示「錯誤：找不到參照」的訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have only a few horizontal indents, this style may be usable with multiple lists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T133524Z" creationid="MarkHung" creationdate="20171229T133524Z">
+        <seg>如果你只有少許水平縮排，這個樣式也許可以用在多個清單中。</seg>
       </tuv>
     </tu>
     <tu>
