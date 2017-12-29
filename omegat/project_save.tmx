@@ -4057,6 +4057,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice has several ways to outline &lt;f0&gt;using paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T132445Z" creationid="MarkHung" creationdate="20171229T132445Z">
+        <seg>LibreOffice有幾種方式使用段落樣式建立大綱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice has versions for Linux, OS X, and Windows.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092542Z" creationid="zerng07" creationdate="20170817T092542Z">
@@ -4821,6 +4829,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T140028Z" creationid="MarkHung" creationdate="20171225T140028Z">
         <seg>製作大綱及清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Outlining with paragraph styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T132419Z" creationid="MarkHung" creationdate="20171229T132419Z">
+        <seg>使用段落樣式建立大綱</seg>
       </tuv>
     </tu>
     <tu>
@@ -6918,6 +6934,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T084936Z" creationid="MarkHung" creationdate="20171223T084936Z">
         <seg>排版實務可以提供建議，卻不應該當成盲目遵從的習慣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Outline Numbering,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; you can choose a numbering style for each paragraph style, making it part of the Outline Levels (see “&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Outlining and making lists&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;,” page &lt;/f6&gt;&lt;f7&gt;&lt;bf8&gt;1&lt;/bf8&gt;&lt;/f7&gt;&lt;f9&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T132725Z" creationid="MarkHung" creationdate="20171229T132725Z">
+        <seg>使用「工具 &gt; 章節編號」，你可以替每個編號樣式選擇一個段落樣式，使段落成為大綱層級。( 請參考「建立大綱與清單」頁1)</seg>
       </tuv>
     </tu>
     <tu>
