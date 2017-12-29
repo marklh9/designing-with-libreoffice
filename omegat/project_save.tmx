@@ -5954,6 +5954,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most common way to add support for additional languages is to select them from the drop-down list at &lt;f0&gt;&lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Writing Aids &gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; U&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;ser-defined dictionaries &gt; New.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T131333Z" creationid="MarkHung" creationdate="20171229T131333Z">
+        <seg>增加支援語言最常見的方式，是從「工具 &gt; 選項 &gt; 語言設定 &gt; 書寫輔助 &gt; 使用者自訂的字典 &gt; 新增」，自下拉選單中選擇額外的語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The next essay you write for that professor, you can concentrate on content and not have to worry about formatting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174227Z" creationid="zerng07" creationdate="20170930T174227Z">
