@@ -1856,6 +1856,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you can ignore &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Tools &gt; Outline Numbering,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and associate each Heading style with a separate list style using the &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Styles and Formatting&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; window.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T134410Z" creationid="MarkHung" creationdate="20171229T134410Z">
+        <seg>或者，你可以忽略「工具 &gt; 章節編號 」，並且在「樣式與格式」視窗中，替每個標題樣式關聯個別的清單樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although not all the fonts displayed on this page are complete, their consistently high quality makes them worth considering.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T142558Z" creationid="zerng07" creationdate="20170817T142558Z">
