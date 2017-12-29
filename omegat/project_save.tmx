@@ -3352,6 +3352,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you sometimes need to break up a list with an unnumbered &lt;f0&gt;or unbulleted&lt;/f0&gt; paragraph &lt;f1&gt;that gives&lt;/f1&gt; more detail about a list item.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T132938Z" creationid="MarkHung" creationdate="20171229T132938Z">
+        <seg>然而，有時你想要用未編號或者無項目符號的段落中斷清單，提供清單項目更多的細節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I have been writing about free and open source software for &lt;f0&gt;over &lt;/f0&gt;a decade.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T181717Z" creationid="zerng07" creationdate="20170822T150920Z">
@@ -3764,6 +3772,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054022Z" creationid="Jeff Huang" creationdate="20171111T131840Z">
         <seg>如果是紙本文件，段落長度可以更長，但僅限於你需要較長的詳細論述時使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In many lists, each paragraph is a list item and is therefore numbered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T132847Z" creationid="MarkHung" creationdate="20171229T132847Z">
+        <seg>在許多清單中，每個段落都是一個項目，因此都有編號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5318,6 +5334,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075345Z" creationid="Jeff Huang" creationdate="20171213T025813Z">
         <seg>如果你想要避開所有斷字&lt;f0&gt;並留下參差不齊的右邊距&lt;/f0&gt;的話，請略過此步驟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping a paragraph in a list</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T132816Z" creationid="MarkHung" creationdate="20171229T132816Z">
+        <seg>在清單中略過段落</seg>
       </tuv>
     </tu>
     <tu>
