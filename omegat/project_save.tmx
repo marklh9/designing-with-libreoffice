@@ -952,6 +952,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Style names like &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Bulleted&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Bulleted 2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; or &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Nested&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; will help to remind you of the relation between the two paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T132100Z" creationid="MarkHung" creationdate="20171229T132100Z">
+        <seg>像是「清單1」或「清單2」或「階層」可以協助你記住兩個不同段落樣式的關係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;Templates&lt;/f1&gt; link on the introductory splash screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T120953Z" creationid="Franklin Weng" creationdate="20171212T142321Z">
@@ -2880,6 +2888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For convenience, use the same names for both the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Paragraph&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;List&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; styles, since they cannot be mixed up.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T132236Z" creationid="MarkHung" creationdate="20171229T132236Z">
+        <seg>既然段落及清單樣式可能會混用，為了方便，可以使用相同的名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;/f0&gt;LibreOffice uses tabs to position text in relation to bullets and numbers in list styles, and as an option in customizing tables of contents &lt;f1&gt;or in the use of a conditional style.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024905Z" creationid="MarkHung" creationdate="20171223T095928Z">
@@ -4373,6 +4389,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T131710Z" creationid="MarkHung" creationdate="20171229T131710Z">
         <seg>兩個選擇都沒有特別的優勢，因為你仍然必須完成相同的設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nested lists created using two separate list styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T132407Z" creationid="MarkHung" creationdate="20171229T132407Z">
+        <seg>用兩種不同的清單樣式建立的階層式清單。</seg>
       </tuv>
     </tu>
     <tu>
