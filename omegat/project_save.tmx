@@ -1626,8 +1626,8 @@
       <tuv lang="EN">
         <seg>A nested list – a list within a list – is most common in an online text, where space is unimportant and structured text like lists and tables improve readability.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104230Z" creationid="MarkHung" creationdate="20171226T104230Z">
-        <seg>巢狀清單，即清單中的清單，最常出現在文字大綱，空間較不重要，像清單或表格一樣結構化的文字改善可讀性。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T131841Z" creationid="MarkHung" creationdate="20171226T104230Z">
+        <seg>階層清單，即清單中的清單，最常出現在文字大綱，空間較不重要，像清單或表格一樣結構化的文字改善可讀性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3232,6 +3232,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, in both cases, each nested list is typically indented more than the list level above it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T131752Z" creationid="MarkHung" creationdate="20171229T131752Z">
+        <seg>然而，在兩種情況下，每個被包覆的清單通常都比上層的清單縮排更多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, in practice, such people are rare.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085452Z" creationid="Jeff Huang" creationdate="20171111T030749Z">
@@ -4361,10 +4369,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neither &lt;f0&gt;choice&lt;/f0&gt; has any advantage over the other, since you are still dealing with the same options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T131710Z" creationid="MarkHung" creationdate="20171229T131710Z">
+        <seg>兩個選擇都沒有特別的優勢，因為你仍然必須完成相同的設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nesting lists</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104039Z" creationid="MarkHung" creationdate="20171226T104039Z">
-        <seg>巢狀清單</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T131833Z" creationid="MarkHung" creationdate="20171226T104039Z">
+        <seg>階層清單</seg>
       </tuv>
     </tu>
     <tu>
@@ -6348,8 +6364,8 @@
       <tuv lang="EN">
         <seg>To nest a list, &lt;f0&gt;you have two choices.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120635Z" creationid="MarkHung" creationdate="20171226T104310Z">
-        <seg>建立巢狀清單， 你有兩種選擇。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T131846Z" creationid="MarkHung" creationdate="20171226T104310Z">
+        <seg>建立階層清單， 你有兩種選擇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6422,6 +6438,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115237Z" creationid="Franklin Weng" creationdate="20171212T115237Z">
         <seg>在不同文件中，即使樣式名稱相同，裡面的格式有可能不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typically, too, each list level will use a different bullet style or numbering system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T131942Z" creationid="MarkHung" creationdate="20171229T131942Z">
+        <seg>通常每個清單階層會使用不同的項目符號或者編號系統。</seg>
       </tuv>
     </tu>
     <tu>
