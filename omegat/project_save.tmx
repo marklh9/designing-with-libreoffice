@@ -6410,6 +6410,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a style for such paragraphs, you can use the paragraph style with a list to create a linked paragraph that is mostly formatted identically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T133154Z" creationid="MarkHung" creationdate="20171229T133154Z">
+        <seg>要建立此種段落樣式，你可以用帶有清單的段落樣式建立相同格式的段落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To fully appreciate the difference between formatting manually and formatting with styles, imagine that you are preparing a twenty page essay for a university class.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174010Z" creationid="zerng07" creationdate="20170930T173021Z">
@@ -6990,6 +6998,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T024644Z" creationid="MarkHung" creationdate="20171224T055940Z">
         <seg>缺乏強烈對比，你的&lt;f1&gt;文件&lt;/f1&gt;&lt;f2&gt;失去&lt;/f2&gt;可讀性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without&lt;f2&gt; such a paragraph, a list item may turn into a long paragraph, reducing the readability that is the whole point of using a list.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T133047Z" creationid="MarkHung" creationdate="20171229T133047Z">
+        <seg>沒有這樣的段落，清單可能會變成一個很長的段落，降低建立清單本身的重點 - 可讀性。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
