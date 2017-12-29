@@ -5996,8 +5996,8 @@
       <tuv lang="EN">
         <seg>The first is to create a list style, and set up two or more list levels with different formatting choices on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tabs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120702Z" creationid="MarkHung" creationdate="20171226T104610Z">
-        <seg>首先建立一個清單樣式，並且在&lt;f2&gt;「位置」&lt;/f2&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f5&gt;「自訂」&lt;/f5&gt;頁籤設定不同的格式設定，建立兩個甚至更多的階層。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T134051Z" creationid="MarkHung" creationdate="20171226T104610Z">
+        <seg>首先建立一個清單樣式，並且在「位置」和「自訂」頁籤設定不同的格式設定，建立兩個甚至更多的階層。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6484,8 +6484,8 @@
       <tuv lang="EN">
         <seg>To nest a list, &lt;f0&gt;you have two choices.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T131846Z" creationid="MarkHung" creationdate="20171226T104310Z">
-        <seg>建立階層清單， 你有兩種選擇。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T134110Z" creationid="MarkHung" creationdate="20171226T104310Z">
+        <seg>建立階層清單， 你有兩種選擇</seg>
       </tuv>
     </tu>
     <tu>
