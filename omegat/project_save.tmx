@@ -1056,6 +1056,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To add to the confusion&lt;/f0&gt;, &lt;f1&gt;HTML&lt;/f1&gt; is treated in a very individualist way.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T130459Z" creationid="MarkHung" creationdate="20171229T130459Z">
+        <seg>更讓人困惑的是，HTML有獨特的處理方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To switch to a lower list level while using the associated paragraph style, press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key before entering content; to switch to a higher list level, press &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+Tab.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T120302Z" creationid="MarkHung" creationdate="20171226T105200Z">
@@ -2360,6 +2368,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character &lt;f0&gt;s&lt;/f0&gt;tyle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T130338Z" creationid="MarkHung" creationdate="20171229T130338Z">
+        <seg>字元樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the attachments in email&lt;f0&gt;s that you have sent.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124353Z" creationid="Franklin Weng" creationdate="20171213T124353Z">
@@ -3060,6 +3076,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T123727Z" creationid="MarkHung" creationdate="20171226T123727Z">
         <seg>&lt;f0&gt;字元樣式&lt;/f0&gt;如何對應&lt;f1&gt;HTML&lt;/f1&gt; 標籤.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How &lt;f0&gt;P&lt;/f0&gt;aragraph styles are mapped to &lt;f1&gt;HTML&lt;/f1&gt; tags.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T130324Z" creationid="MarkHung" creationdate="20171229T130324Z">
+        <seg>&lt;f0&gt;段落樣式&lt;/f0&gt;對應至&lt;f1&gt;HTML&lt;/f1&gt;標籤的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5538,6 +5562,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text body</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T130253Z" creationid="MarkHung" creationdate="20171229T130253Z">
+        <seg>內文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text tools and traps</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T081617Z" creationid="MarkHung" creationdate="20171223T081617Z">
@@ -5702,6 +5734,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T094604Z" creationid="MarkHung" creationdate="20171223T094604Z">
         <seg>僅因為能夠呈現陰影就使用陰影的日子已經過去很久了&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default HTML tag for contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T130243Z" creationid="MarkHung" creationdate="20171229T130243Z">
+        <seg>內容預設的HTML標籤</seg>
       </tuv>
     </tu>
     <tu>
