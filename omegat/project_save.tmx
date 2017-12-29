@@ -751,6 +751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Numbering Style&lt;/f0&gt; is set to &lt;f1&gt;None.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T133349Z" creationid="MarkHung" creationdate="20171229T133349Z">
+        <seg>&lt;f0&gt;編號樣式&lt;/f0&gt;設定為&lt;f1&gt;無。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;O&lt;/f0&gt;ften, &lt;f1&gt;however, borders&lt;/f1&gt; are just another bit of unnecessary clutter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T143222Z" creationid="MarkHung" creationdate="20171225T021306Z">
@@ -803,6 +811,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T183045Z" creationid="zerng07" creationdate="20170817T175243Z">
         <seg>&lt;f0&gt;還有OpenOffice？&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Outline Level&lt;/f0&gt; is set to &lt;f1&gt;Body Text.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T133335Z" creationid="MarkHung" creationdate="20171229T133335Z">
+        <seg>&lt;f0&gt;大綱層級&lt;/f0&gt;設定為&lt;f1&gt;本文。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5926,6 +5942,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T121119Z" creationid="MarkHung" creationdate="20171225T121119Z">
         <seg>例外是中世紀彩繪古籍中高度裝飾的大寫字母。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The exceptions are on the &lt;f0&gt;Outline &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&amp;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Numbering&lt;/f3&gt; tab, on which:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T133304Z" creationid="MarkHung" creationdate="20171229T133304Z">
+        <seg>除了&lt;f0&gt;「大綱及編號」&lt;/f0&gt;頁籤以外：</seg>
       </tuv>
     </tu>
     <tu>
