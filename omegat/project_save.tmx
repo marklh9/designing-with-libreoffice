@@ -5994,6 +5994,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The other list levels have not been customized, so they default to the same bullet as the top level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T131546Z" creationid="MarkHung" creationdate="20171229T131546Z">
+        <seg>由於其他清單層級尚未被設定，因此呈現與上層相同的項目符號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The preview pane can help you set up each list level, and the customized list style is associated with a paragraph style for use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T104946Z" creationid="MarkHung" creationdate="20171226T104946Z">
@@ -6006,6 +6014,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T141714Z" creationid="zerng07" creationdate="20170818T034410Z">
         <seg>文字排印學的主要目的在於讓文字更引人入勝、更易於閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second choice is to create two separate list styles, &lt;f0&gt;t&lt;/f0&gt;hen associate each list style with a separate paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T131642Z" creationid="MarkHung" creationdate="20171229T131642Z">
+        <seg>第二個選擇是建立個別的清單樣式，再將清單樣式與段落樣式分別結合。</seg>
       </tuv>
     </tu>
     <tu>
