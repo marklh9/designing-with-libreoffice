@@ -4563,8 +4563,8 @@
       <tuv lang="EN">
         <seg>On the other hand, you cannot save &lt;f0&gt;files as&lt;/f0&gt; &lt;f1&gt;HTML&lt;/f1&gt; in the template manager.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171226T121457Z" creationid="MarkHung" creationdate="20171226T121457Z">
-        <seg>另一方面，你不能在「管理範本」中江檔案另存為HTML。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T130512Z" creationid="MarkHung" creationdate="20171226T121457Z">
+        <seg>另一方面，你不能在「管理範本」中將檔案另存為HTML。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6934,6 +6934,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174548Z" creationid="zerng07" creationdate="20170930T174548Z">
         <seg>你可以&lt;f0&gt;幾乎&lt;/f0&gt;省去按 Tab 鍵縮排的需求，尤其是新段落的開頭空格，因為你可以設定出能自動為你縮排的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>老實說，建議不要這樣做。考慮到除了格式化之外，匯出時也必須要判斷相對應的內容，開發人員真的沒辦法面面俱到。</note>
+      <tuv lang="EN">
+        <seg>You can assign more than one paragraph style to an outline level, but only &lt;f0&gt;one paragraph style displays in &lt;/f0&gt;&lt;f1&gt;Tool&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Outline Numbering.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171229T130700Z" creationid="MarkHung" creationdate="20171229T130700Z">
+        <seg>你可以為同一個大綱層級指定多個段落樣式，但只有一個段落樣式會顯示在「工具 &gt; 章節編號」</seg>
       </tuv>
     </tu>
     <tu>
