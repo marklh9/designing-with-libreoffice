@@ -1895,6 +1895,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>NO!!!</note>
+      <tuv lang="EN">
+        <seg>An even easier form of outlining is to create a single &lt;f0&gt;list&lt;/f0&gt; style for outlining.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>An even greater limitation is that only a limited number of character and paragraph styles are converted directly into &lt;f0&gt;HTML&lt;/f0&gt; tags.</seg>
       </tuv>
