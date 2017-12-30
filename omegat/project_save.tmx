@@ -1240,6 +1240,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can update extensions with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Extension Manager &gt; new,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; which is an advantage when the dictionaries are still being developed and changing rapidly.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171230T013351Z" creationid="MarkHung" creationdate="20171230T013351Z">
+        <seg>你可以用「工具 &gt;擴充套件管理員 &gt;新增」來更新擴充套件，有利使用那些還在開發改變快速的字典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can’t do anything manually that you can’t do with styles much more easily.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031545Z" creationid="zerng07" creationdate="20171219T031300Z">
@@ -1780,6 +1788,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T091011Z" creationid="MarkHung" creationdate="20171223T090755Z">
         <seg>加入邊框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding dictionary locales may be only the first step in using another language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171230T013432Z" creationid="MarkHung" creationdate="20171230T013432Z">
+        <seg>增加字典區域設定可能是使用其他語言的第一步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5327,6 +5343,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171225T014902Z" creationid="MarkHung" creationdate="20171225T014902Z">
         <seg>設定透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up &lt;f0&gt;other language features&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171230T013403Z" creationid="MarkHung" creationdate="20171230T013403Z">
+        <seg>設定其他語言功能</seg>
       </tuv>
     </tu>
     <tu>
