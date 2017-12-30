@@ -3401,6 +3401,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you can get much the same result by selecting a pre-defined pattern from the list style’s &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Outline&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; tab instead.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171230T012728Z" creationid="MarkHung" creationdate="20171230T012728Z">
+        <seg>然而，你可以在清單樣式「大綱」頁籤選取預設好的範本，得到差不多的結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you can learn their basic concepts in ten minutes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063726Z" creationid="zerng07" creationdate="20171212T063007Z">
