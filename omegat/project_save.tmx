@@ -1272,6 +1272,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;If you want to, you can manually set up the different levels on the list style’s &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Options&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171230T012558Z" creationid="MarkHung" creationdate="20171230T012558Z">
+        <seg>如果你想，你可以在「自訂」頁籤手動設定清單不同階層的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In Draw and Impress, a similar feature is called &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Line.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171223T090703Z" creationid="MarkHung" creationdate="20171223T090703Z">
@@ -1898,6 +1906,9 @@
       <note>NO!!!</note>
       <tuv lang="EN">
         <seg>An even easier form of outlining is to create a single &lt;f0&gt;list&lt;/f0&gt; style for outlining.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20171230T012355Z">
+        <seg>建立章節編號簡單的方式是替大綱建立一個單獨的&lt;f0&gt;清單樣式&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
